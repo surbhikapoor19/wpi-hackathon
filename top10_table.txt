@@ -1,0 +1,1321 @@
+                                        Waterbody                 Watershed  avg_risk_score  percent_unsafe  severe_cases
+1141                                  Stony Brook                 Merrimack        3.000000      100.000000             3
+309                             Cold Spring Brook                Blackstone        2.625000      100.000000             1
+916                             Unnamed Tributary                  Chicopee        2.500000      100.000000             0
+868                                   Moose Brook                  Chicopee        2.500000      100.000000             1
+1004                                   Vine Brook                 Shawsheen        2.333333      100.000000             3
+204                               Hockomock River                   Taunton        2.250000      100.000000             3
+1088                                  Otter River                   Millers        2.153846      100.000000             2
+708                             Sudbury Reservoir          Concord (SuAsCo)        2.018519      100.000000            25
+635                               Whitehall Brook          Concord (SuAsCo)        2.000000      100.000000             2
+597                                 Quaboag River                  Chicopee        2.000000      100.000000             1
+186                             Unnamed Tributary                   Taunton        2.000000      100.000000             0
+496                           First Herring Brook             South Coastal        2.000000      100.000000             1
+507                                  Accord Brook           Weymouth & Weir        2.000000      100.000000             2
+545                                 Quaboag River                  Chicopee        2.000000      100.000000             0
+541                                 Quaboag River                  Chicopee        2.000000      100.000000             0
+554                                 Quaboag River                  Chicopee        2.000000      100.000000             0
+1061                           Maple Meadow Brook                   Ipswich        2.000000      100.000000             3
+555                                 Quaboag River                  Chicopee        2.000000      100.000000             1
+596                                 Quaboag River                  Chicopee        2.000000      100.000000             0
+528                                   Great Brook                  Chicopee        2.000000      100.000000             0
+576                                  Axtell Brook                Blackstone        2.000000      100.000000             0
+379                                  Miscoe Brook                Blackstone        2.000000      200.000000             1
+1038                                Nashoba Brook          Concord (SuAsCo)        2.000000      100.000000             1
+367                              Cook Allen Brook                Blackstone        2.000000      100.000000             2
+593                                 Quaboag River                  Chicopee        2.000000      100.000000             0
+782                            Broad Meadow Brook          Concord (SuAsCo)        2.000000      100.000000             1
+589                                 Quaboag River                  Chicopee        2.000000      100.000000             1
+1109                                Ipswich River                   Ipswich        2.000000      100.000000             1
+384                                    Mine Brook                   Charles        1.900000      111.111111             1
+1203                                 Packard Pond                   Millers        1.875000      100.000000             5
+998                                    Vine Brook                 Shawsheen        1.866667      100.000000             8
+939                                  Barkers Pond          Concord (SuAsCo)        1.846154      100.000000             6
+1039                                 Bowers Brook                    Nashua        1.833333      100.000000             0
+58                                    Turner Pond              Buzzards Bay        1.833333      120.000000             4
+981                                   Sluice Pond             North Coastal        1.800000      100.000000             1
+1090                                   Heart Pond          Concord (SuAsCo)        1.800000      100.000000            11
+694                                 Gleasons Pond          Concord (SuAsCo)        1.800000      100.000000             8
+628                               Powissett Brook                   Charles        1.800000      100.000000             0
+1099                                 Beaver Brook                   Millers        1.769231      100.000000             0
+192                              Winnetuxet River                   Taunton        1.750000      100.000000             1
+973                                  Bloody Brook               Connecticut        1.700000      100.000000             1
+1165                                Ipswich River                   Ipswich        1.666667      100.000000             0
+349                                 Charles River                   Charles        1.666667      100.000000             0
+157                                    Cooks Pond             South Coastal        1.666667       94.444444             7
+889                             Upper Mystic Lake                    Mystic        1.666667      100.000000             4
+63                              Unnamed Tributary              Buzzards Bay        1.666667      100.000000             0
+1074                                Lubbers Brook                   Ipswich        1.666667       93.333333            10
+499                                  Warren Brook                Blackstone        1.666667      100.000000             0
+377                                    Mill River                   Charles        1.666667      100.000000             1
+996                                  Saugus River             North Coastal        1.666667      100.000000             0
+1131                           River Meadow Brook          Concord (SuAsCo)        1.666667      100.000000             0
+1098                                Ipswich River                   Ipswich        1.666667      100.000000             0
+1034                                 Saugus River             North Coastal        1.666667      112.500000             0
+857                                      Spy Pond                    Mystic        1.649123      100.000000            26
+954                                     Horn Pond                    Mystic        1.641026      100.000000            43
+1228                              Stockwell Brook                   Millers        1.625000      100.000000             0
+80                                      Mill Pond                  Cape Cod        1.615385      100.000000            16
+1032                                    Fort Pond                    Nashua        1.607143       94.545455            16
+639              Indian Brook/Hopkinton Reservoir          Concord (SuAsCo)        1.600000       80.000000             1
+824                                  Beaver Brook                   Charles        1.600000      100.000000             1
+851                                      Spy Pond                    Mystic        1.567568      100.000000            12
+1044                              Shawsheen River                 Shawsheen        1.538462      100.000000             0
+733                                 Bartlett Pond          Concord (SuAsCo)        1.538462       92.307692             6
+191                     Ten Mile River/Falls Pond                  Ten Mile        1.535714       96.428571            13
+966                               Shawsheen River                 Shawsheen        1.533333      100.000000             0
+926                                    Wedge Pond                    Mystic        1.531915      100.000000            18
+759                                 Maynard Brook                  Chicopee        1.500000      100.000000             0
+950                       West Branch Fever Brook                  Chicopee        1.500000      100.000000             0
+714                                  Norwich Pond                 Westfield        1.500000       75.000000             5
+698                             Lake Quinsigamond                Blackstone        1.500000      100.000000             3
+76                           Shingle Island River              Buzzards Bay        1.500000      100.000000             0
+980                       East Branch Fever Brook                  Chicopee        1.500000      100.000000             0
+120                             Cedar Swamp River                   Taunton        1.500000      100.000000             4
+1151                          Thousand Acre Brook                   Millers        1.500000      100.000000             0
+580                                  Miscoe Brook                Blackstone        1.500000       50.000000             0
+1197                                   Rich Brook                   Millers        1.500000      100.000000             0
+36                              Paskamanset River              Buzzards Bay        1.500000      100.000000             0
+1065                             Chickering Brook                   Millers        1.500000      100.000000             0
+1015                                 Saugus River             North Coastal        1.500000      100.000000             0
+1048                                 Robbins Pond                    Nashua        1.500000      100.000000             4
+584                                 Quaboag River                  Chicopee        1.500000       75.000000             2
+993                                   Walden Pond             North Coastal        1.482759      100.000000             9
+660                                 Sudbury River          Concord (SuAsCo)        1.461538       92.307692             0
+853                                 Alewife Brook                    Mystic        1.444444      100.000000             1
+121                               Weweantic River              Buzzards Bay        1.428571      100.000000             0
+101              Wankinco River/Parker Mills Pond              Buzzards Bay        1.400000       80.000000             4
+248                                Matfield River                   Taunton        1.400000       80.000000             0
+1281                                 Salmon Brook                 Merrimack        1.375000      100.000000             4
+182                                 Herring River                  Cape Cod        1.375000      100.000000             0
+1077                                Ipswich River                   Ipswich        1.363636       72.727273             1
+858                           Cambridge Reservoir                   Charles        1.360000      100.000000             9
+834                                  Beaver Brook                   Charles        1.333333      100.000000             0
+1000                               Aberjona River                    Mystic        1.333333      100.000000             0
+413                             Unnamed Tributary                  Neponset        1.333333      100.000000             0
+524                                   Aaron River             South Coastal        1.333333      100.000000             0
+535                             Unnamed Tributary                  Chicopee        1.333333      150.000000             0
+737                             Unnamed Tributary          Concord (SuAsCo)        1.333333      100.000000             0
+1159                           River Meadow Brook          Concord (SuAsCo)        1.333333      128.571429             0
+1002                                   Mill River             North Coastal        1.333333      112.500000             0
+797                                   Muddy Brook                  Chicopee        1.333333      100.000000             0
+1097                                Martins Brook                   Ipswich        1.333333       86.666667             5
+122                                   Jemima Pond                  Cape Cod        1.320000       96.000000             6
+46                                   Mashpee Pond                  Cape Cod        1.311111       67.777778            54
+752                                     Card Pond                Housatonic        1.307692      108.333333             1
+1260                                Millers River                   Millers        1.307692      100.000000             2
+736                                Rosemary Brook                   Charles        1.300000       70.000000             0
+269                                  Crystal Lake                Blackstone        1.294118      100.000000             0
+100              Wankinco River/Parker Mills Pond              Buzzards Bay        1.272727       72.727273             7
+1298                                   Penn Brook                    Parker        1.250000      100.000000             1
+35                                   Ashumet Pond                  Cape Cod        1.250000       62.500000             4
+150                                Nemasket River                   Taunton        1.250000      100.000000             0
+158                                Nemasket River                   Taunton        1.250000       75.000000             0
+71                                Stillwater Pond                  Cape Cod        1.239130       69.565217            29
+1204                                Concord River          Concord (SuAsCo)        1.222222      128.571429             0
+995                                  Hawkes Brook             North Coastal        1.222222      112.500000             0
+562                                    Dunn Brook                  Chicopee        1.222222       77.777778             3
+1033                                Proctor Brook             North Coastal        1.222222      112.500000             0
+866                                    Damon Pond                 Westfield        1.214286      100.000000             3
+1192                            Unnamed Tributary                 Shawsheen        1.200000       80.000000             0
+138                                Nemasket River                   Taunton        1.200000      100.000000             1
+1314                                 Crystal Lake                 Merrimack        1.195652       65.217391            18
+590                                     Farm Pond                   Charles        1.181818      110.000000             2
+92                                  Leonards Pond              Buzzards Bay        1.166667       83.333333             1
+897                               Spot Pond Brook                    Mystic        1.166667       83.333333             0
+1047                                 Windsor Pond                 Westfield        1.162162       62.162162            13
+94                                     Marys Pond              Buzzards Bay        1.161290       80.645161             7
+1101                                Ipswich River                   Ipswich        1.153846       84.615385             2
+1149                                 Beaver Brook                   Millers        1.153846      100.000000             0
+97                                     Marys Pond              Buzzards Bay        1.153846       92.307692             2
+1268                                 Priest Brook                   Millers        1.152174      104.545455             0
+51                                   Hamblin Pond                  Cape Cod        1.150000       65.000000             9
+655                                Waushacum Pond          Concord (SuAsCo)        1.142857       85.714286             3
+297                                    Lake Pearl                   Charles        1.137931       72.413793            11
+1026                         Lower Crow Hill Pond                    Nashua        1.133333      100.000000             0
+365                                Cleveland Pond                   Taunton        1.133333       66.666667             7
+1265                                Millers River                   Millers        1.133333       93.333333             0
+1091                                Mahoney Brook                   Millers        1.125000      100.000000             0
+717                           Little Chauncy Pond          Concord (SuAsCo)        1.120000       60.000000            11
+137                                   Dunham Pond              Buzzards Bay        1.111111       77.777778             4
+201                                  Scotts Brook                  Ten Mile        1.111111      100.000000             2
+572                                 Dopping Brook                   Charles        1.100000       80.000000             1
+842                                  Beaver Brook                   Charles        1.100000      100.000000             0
+105                                    Cole River    Mount Hope Bay (Shore)        1.100000       88.888889             0
+53                                   Shubael Pond                  Cape Cod        1.097561       58.536585            19
+1031                             Goldthwait Brook             North Coastal        1.090909      100.000000             0
+85                                 Sippican River              Buzzards Bay        1.083333      100.000000             0
+279                                  Webster Lake                    French        1.078431       72.549020            22
+98                                      Flax Pond                  Cape Cod        1.076923       76.923077             4
+366                               Reservoir No. 6                Blackstone        1.047619      100.000000             0
+814                                     Lily Pond                    Nashua        1.047619      100.000000             0
+1274                                  Stiles Pond                   Ipswich        1.040000       60.000000            11
+482                          Upper Spectacle Pond                Farmington        1.034483       75.862069            21
+272                                   Vinica Pond                  Chicopee        1.000000       72.727273             3
+1183                                  Stony Brook                 Merrimack        1.000000      100.000000             0
+1158                      East Branch Tully River                   Millers        1.000000      110.000000             0
+1316                                Cobbler Brook                 Merrimack        1.000000       66.666667             0
+1318                               Smallpox Brook             North Coastal        1.000000       88.888889             0
+522                                Neponset River                  Neponset        1.000000      100.000000             0
+1135                                 Beaver Brook          Concord (SuAsCo)        1.000000      100.000000             0
+530                                    Dark Brook                Blackstone        1.000000       83.333333             0
+1154                                  Stony Brook                 Merrimack        1.000000      100.000000             0
+456                             Quacumquasit Pond                  Chicopee        1.000000       56.666667            22
+303                             Unnamed Tributary                Blackstone        1.000000      100.000000             0
+464                                  Potash Brook                 Westfield        1.000000      125.000000             0
+452                                     Buck Pond                 Westfield        1.000000       71.428571            11
+450                                  Potash Brook                 Westfield        1.000000      125.000000             0
+1224                               Lawrence Brook                   Millers        1.000000      100.000000             0
+1225                              Shawsheen River                 Shawsheen        1.000000      100.000000             0
+1279                              Shawsheen River                 Shawsheen        1.000000      100.000000             0
+1276                   North Branch Millers River                   Millers        1.000000      100.000000             0
+533                                    Dark Brook                Blackstone        1.000000      100.000000             0
+356                               Steamburg Brook                Blackstone        1.000000      100.000000             0
+1270                                  Boyce Brook                   Millers        1.000000      100.000000             0
+372                                 Charles River                   Charles        1.000000       88.888889             0
+1275                      East Branch Tully River                   Millers        1.000000      100.000000             0
+800                                 Charles River                   Charles        1.000000       54.545455             0
+564                             Unnamed Tributary                  Chicopee        1.000000       50.000000             1
+537                                  Accord Brook           Weymouth & Weir        1.000000      100.000000             0
+1076                                  Crane Brook             North Coastal        1.000000      100.000000             0
+702                             Unnamed Tributary          Concord (SuAsCo)        1.000000      100.000000             0
+892                                   Great Brook          Concord (SuAsCo)        1.000000       66.666667             0
+713                                    Hurd Brook                   Charles        1.000000      100.000000             0
+715                             Unnamed Tributary                   Charles        1.000000      100.000000             0
+721                               Poor Farm Brook                Blackstone        1.000000      100.000000             0
+734                                  Jamaica Pond                   Charles        1.000000       50.000000             2
+890                                  Munroe Brook                    Mystic        1.000000      100.000000             0
+876                                    Mill Brook                    Mystic        1.000000      100.000000             0
+740                                 Assabet River          Concord (SuAsCo)        1.000000       80.000000             0
+220                                   Rocky Brook                 Quinebaug        1.000000      100.000000             0
+774                                     Hop Brook               Connecticut        1.000000       80.000000             0
+788                             Asnebumskit Brook                    Nashua        1.000000       50.000000             0
+793                                   Muddy Brook                  Chicopee        1.000000       50.000000             0
+839                                     Hog Brook          Concord (SuAsCo)        1.000000       50.000000             0
+829                                     Run Brook          Concord (SuAsCo)        1.000000      100.000000             0
+699                               Coal Mine Brook                Blackstone        1.000000      100.000000             0
+893                               Burnshirt River                  Chicopee        1.000000      100.000000             0
+640                                 Furnace Brook           Weymouth & Weir        1.000000      100.000000             0
+979                                     Elm Brook                 Shawsheen        1.000000       92.857143             0
+1072                                  Crane River             North Coastal        1.000000      100.000000             0
+547                               Purgatory Brook                  Neponset        1.000000      100.000000             0
+1057                            Wrights Reservoir                   Millers        1.000000      100.000000             0
+556                                 Quaboag River                  Chicopee        1.000000       50.000000             1
+559                                 Buttery Brook               Connecticut        1.000000      100.000000             0
+813                             Unnamed Tributary          Concord (SuAsCo)        1.000000      100.000000             0
+964                                Cummings Brook                    Mystic        1.000000      100.000000             0
+922                              Natty Pond Brook                  Chicopee        1.000000      100.000000             0
+962                       West Branch Fever Brook                  Chicopee        1.000000      100.000000             0
+952                                Aberjona River                    Mystic        1.000000      100.000000             0
+942                       East Branch Fever Brook                  Chicopee        1.000000      100.000000             0
+617                                    Town Brook           Weymouth & Weir        1.000000      100.000000             0
+618                                 Furnace Brook           Weymouth & Weir        1.000000      100.000000             0
+936                                Asnacomet Pond                  Chicopee        1.000000       78.571429             3
+239                                 Arnolds Brook                Blackstone        1.000000       87.500000             0
+1319                                 Powwow River                 Merrimack        1.000000      100.000000             0
+24                                 Quashnet River                  Cape Cod        1.000000      100.000000             0
+187                                 Herring River                  Cape Cod        1.000000       87.500000             0
+110                                     Rocky Run  Narragansett Bay (Shore)        1.000000      100.000000             0
+64                                  Herring River                  Cape Cod        1.000000      100.000000             0
+103                             Rattlesnake Brook                   Taunton        1.000000      100.000000             0
+60                              Unnamed Tributary              Buzzards Bay        1.000000       66.666667             0
+87                                    Scargo Lake                  Cape Cod        1.000000       60.000000             4
+96                                     Fall Brook                   Taunton        1.000000      150.000000             0
+31                               Buttonwood Brook              Buzzards Bay        1.000000       66.666667             0
+69                                     White Pond                  Cape Cod        1.000000       88.888889             3
+59                              Unnamed Tributary              Buzzards Bay        1.000000      100.000000             0
+124                                 Runnins River  Narragansett Bay (Shore)        1.000000       87.500000             0
+107                                   Terry Brook                   Taunton        1.000000      100.000000             0
+44                         Bread And Cheese Brook              Buzzards Bay        1.000000      100.000000             0
+26                     East Branch Westport River              Buzzards Bay        1.000000      100.000000             0
+880                              Atkins Reservoir               Connecticut        0.956522       69.565217             3
+254                         Salisbury Plain River                   Taunton        0.941176       76.470588             0
+314                                   South River             South Coastal        0.933333       66.666667             0
+178                                   Watson Pond                   Taunton        0.933333       46.666667             3
+821                                   Ashley Lake                Housatonic        0.928571       53.571429            13
+542                            Quinsigamond River                Blackstone        0.928571       91.666667             0
+1133                           Strong Water Brook                 Shawsheen        0.923077       69.230769             0
+1222                              Shawsheen River                 Shawsheen        0.923077       69.230769             0
+636                                   Trout Brook                   Charles        0.916667       70.000000             0
+1171                               Baddacook Pond                 Merrimack        0.916667       58.333333             5
+316                                  Beaver Brook                   Taunton        0.909091       63.636364             0
+1256                                Millers River                   Millers        0.903846       97.872340             0
+1291                                  Mason Brook                    Nashua        0.900000      100.000000             0
+1093                                 Beaver Brook             North Coastal        0.888889       88.888889             0
+183                                  Bungay River                  Ten Mile        0.888889       55.555556             0
+1112                               Causeway Brook             North Coastal        0.888889       71.428571             0
+1249                                Millers River                   Millers        0.875000      100.000000             0
+679                             Unnamed Tributary                Blackstone        0.875000       87.500000             0
+1035                                Proctor Brook             North Coastal        0.875000      100.000000             0
+376                                 Charles River                   Charles        0.875000      100.000000             0
+1264                            Unnamed Tributary                   Millers        0.875000      100.000000             0
+390                              Blackstone River                Blackstone        0.875000       75.000000             0
+710                               Lake Cochituate          Concord (SuAsCo)        0.875000       50.000000             3
+127                                 Fullers Brook  Narragansett Bay (Shore)        0.875000       87.500000             0
+647                                 Unquity Brook                  Neponset        0.875000      100.000000             0
+738                             Unnamed Tributary          Concord (SuAsCo)        0.875000       83.333333             0
+1170                                 Boston Brook                   Ipswich        0.875000      100.000000             2
+246                                   Bacon Brook                Blackstone        0.875000      100.000000             0
+930                                   Still River                    Nashua        0.875000      100.000000             3
+417                                 Chicken Brook                   Charles        0.875000       83.333333             0
+1301                               Lake Monomonac                   Millers        0.869565       56.521739             6
+214                                  Robbins Pond                   Taunton        0.866667       66.666667             0
+1244                             Pearl Hill Brook                    Nashua        0.857143       94.736842             0
+48                             Mattapoisett River              Buzzards Bay        0.857143       85.714286             0
+1146                              Shawsheen River                 Shawsheen        0.846154       84.615385             0
+62                                  Copicut River              Buzzards Bay        0.833333       83.333333             0
+73                                   Whites Brook                  Cape Cod        0.833333      100.000000             0
+420                           Beaver Meadow Brook                  Neponset        0.833333       50.000000             0
+594                                Neponset River                  Neponset        0.833333      100.000000             0
+381                                    West Brook                 Quinebaug        0.833333      100.000000             0
+448                                Neponset River                  Neponset        0.833333       83.333333             0
+141                                  Indian Brook             South Coastal        0.833333      133.333333             0
+891                  East Branch Housatonic River                Housatonic        0.833333       66.666667             0
+1130                              Whetstone Brook                   Millers        0.833333      100.000000             0
+722                                  Weasel Brook                Blackstone        0.833333       66.666667             0
+1221                                   Deep Brook                 Merrimack        0.833333      100.000000             0
+494                                 Germany Brook                  Neponset        0.833333       83.333333             0
+855                                  Prince River                  Chicopee        0.833333       83.333333             0
+65                                 Acushnet River              Buzzards Bay        0.833333       83.333333             0
+403                                     Alum Pond                 Quinebaug        0.833333       41.666667             3
+505                             Unnamed Tributary                Blackstone        0.833333       83.333333             0
+626                                  Mother Brook                  Neponset        0.833333       83.333333             0
+726                     Muddy Brook/Hardwick Pond                  Chicopee        0.818182       57.142857             9
+941                                   Shute Brook             North Coastal        0.818182      112.500000             0
+959                             Shaker Glen Brook                    Mystic        0.800000       80.000000             0
+445                                  Potash Brook                 Westfield        0.800000      100.000000             0
+630                                    Town Brook           Weymouth & Weir        0.800000       80.000000             0
+772                                 Assabet River          Concord (SuAsCo)        0.800000       80.000000             0
+689                                 Assabet River          Concord (SuAsCo)        0.800000       80.000000             0
+443                                  Potash Brook                 Westfield        0.800000      100.000000             0
+351                                 French Stream             South Coastal        0.800000      100.000000             0
+200                               Hockomock River                   Taunton        0.800000      100.000000             1
+393                                 Godfrey Brook                   Charles        0.800000       88.888889             0
+472                               Old Swamp River           Weymouth & Weir        0.800000       40.000000             0
+991                             Unnamed Tributary                    Mystic        0.800000      100.000000             0
+527                                  Accord Brook           Weymouth & Weir        0.800000      100.000000             0
+343                                    West River                Blackstone        0.796296       67.346939             3
+1277                      East Branch Tully River                   Millers        0.789474      100.000000             0
+1142                                  Tully River                   Millers        0.785714      100.000000             0
+1078                            Unnamed Tributary             North Coastal        0.777778       71.428571             0
+994                                  Saugus River             North Coastal        0.777778       87.500000             0
+162                                Speedway Brook                  Ten Mile        0.777778       87.500000             0
+1163                                Ipswich River                   Ipswich        0.769231       61.538462             0
+510                           First Herring Brook             South Coastal        0.769231       46.153846             0
+25                              Coonamessett Pond                  Cape Cod        0.757576       39.393939            11
+326                                    Mine Brook                   Charles        0.750000      100.000000             0
+341               Blackstone River/Rice City Pond                Blackstone        0.750000       75.000000             0
+112                               Oak Swamp Brook  Narragansett Bay (Shore)        0.750000       75.000000             0
+946                                   Coles Brook          Concord (SuAsCo)        0.750000      100.000000             0
+1116                             North Pond Brook                   Millers        0.750000      100.000000             0
+872                                  Malden River                    Mystic        0.750000       83.333333             0
+1208                      West Branch Tully River                   Millers        0.750000       80.000000             0
+514                              Blackstone River                Blackstone        0.750000       75.000000             0
+428                                Traphole Brook                  Neponset        0.750000      100.000000             0
+976                                  Bloody Brook               Connecticut        0.750000       75.000000             0
+1241                            Squannacook River                    Nashua        0.750000      100.000000             0
+117                               Clear Run Brook  Narragansett Bay (Shore)        0.750000       75.000000             2
+867                                   North Brook          Concord (SuAsCo)        0.750000      100.000000             0
+910                                   Great Brook          Concord (SuAsCo)        0.750000       50.000000             0
+751                             Unnamed Tributary                Blackstone        0.750000      100.000000             0
+185                                Ten Mile River                  Ten Mile        0.750000       75.000000             0
+20                             Coonamessett River                  Cape Cod        0.750000      100.000000             0
+539                              Blackstone River                Blackstone        0.750000       75.000000             0
+132                                  Sampson Pond              Buzzards Bay        0.750000       66.666667             1
+29                                  Santuit River                  Cape Cod        0.750000      100.000000             0
+410                                 Lake Lorraine                  Chicopee        0.750000       50.000000             2
+476             Blackstone River/Fisherville Pond                Blackstone        0.750000       75.000000             0
+465            Blackstone River/Farnumsville Pond                Blackstone        0.750000       75.000000             0
+481      Blackstone River/Singing Dam Impoundment                Blackstone        0.750000       75.000000             0
+40                                   Lovells Pond                  Cape Cod        0.736842       61.111111             0
+1223                          Fitchburg Reservoir                    Nashua        0.736842       63.157895             0
+1046                              Beaverdam Brook             North Coastal        0.727273       75.000000             0
+470                              Blackstone River                Blackstone        0.727273       72.727273             0
+974                           Bennetts Pond Brook             North Coastal        0.727273      100.000000             0
+148                                    Fresh Pond             South Coastal        0.724138       41.379310             5
+1209                                Concord River          Concord (SuAsCo)        0.720000       75.000000             0
+711                                 Assabet River          Concord (SuAsCo)        0.716667       70.689655             0
+1113                          Mormon Hollow Brook                   Millers        0.714286       83.333333             0
+532                                Plymouth River           Weymouth & Weir        0.714286      100.000000             0
+118                                   Island Pond             South Coastal        0.709677       43.333333             8
+57                                 Acushnet River              Buzzards Bay        0.700000       70.000000             1
+126                                  Palmer River  Narragansett Bay (Shore)        0.700000       77.777778             0
+129                                Bad Luck Brook  Narragansett Bay (Shore)        0.700000       77.777778             0
+882                                    White Pond          Concord (SuAsCo)        0.700000       40.000000             2
+131                    East Branch (Palmer River)  Narragansett Bay (Shore)        0.700000       77.777778             0
+621                             Rock Meadow Brook                   Charles        0.700000       60.000000             0
+16                              Paskamanset River              Buzzards Bay        0.692308       69.230769             0
+114                                  Ezekiel Pond              Buzzards Bay        0.684211       36.842105             4
+1211                                   Tully Pond                   Millers        0.684211       52.631579             2
+913                               South Reservoir                    Mystic        0.676471       44.117647             5
+21                                    Kirby Brook              Buzzards Bay        0.666667       66.666667             0
+1286                                  Mason Brook                    Nashua        0.666667       66.666667             0
+287                                  Vinica Brook                  Chicopee        0.666667       66.666667             0
+651                                    Coys Brook                  Chicopee        0.666667       66.666667             0
+1102                             Frost Fish Brook             North Coastal        0.666667       66.666667             0
+455                                Neponset River                  Neponset        0.666667       66.666667             0
+971                             Unnamed Tributary          Concord (SuAsCo)        0.666667      100.000000             0
+1205                                   Fish Brook                   Ipswich        0.666667       66.666667             0
+881                                 Assabet Brook          Concord (SuAsCo)        0.666667       66.666667             0
+89                                  Quivett Creek                  Cape Cod        0.666667       66.666667             0
+495                                Bogastow Brook                   Charles        0.666667       66.666667             0
+135                                   Coles Brook                  Ten Mile        0.666667       85.714286             0
+1196                               Cow Pond Brook                 Merrimack        0.666667       66.666667             0
+988                                  Spring Brook                 Shawsheen        0.666667      100.000000             0
+909                                Mountain Brook               Connecticut        0.666667       66.666667             0
+189                                 Williams Pond                  Cape Cod        0.666667       44.444444             3
+919                                Aberjona River                    Mystic        0.666667       85.714286             0
+601                              Big Bummet Brook                Blackstone        0.666667       66.666667             0
+74                             Mattapoisett River              Buzzards Bay        0.666667       66.666667             0
+695                                     Hop Brook          Concord (SuAsCo)        0.666667       66.666667             0
+275                               Breakneck Brook                 Quinebaug        0.666667       66.666667             0
+989                          Fall Brook Reservoir                    Nashua        0.652174       52.173913             0
+77                                 Hinckleys Pond                  Cape Cod        0.651163       55.813953             8
+837                                    Ware River                  Chicopee        0.648148       68.627451             0
+32                         Bread And Cheese Brook              Buzzards Bay        0.647059       73.333333             0
+534                                Ponkapog Brook                  Neponset        0.642857       57.142857             0
+72                                 Spectacle Pond                  Cape Cod        0.642857       42.857143             2
+773                                Seaverns Brook                   Charles        0.642857       90.000000             0
+401                                 Charles River                   Charles        0.642857       69.230769             0
+247                     White Oak Brook/Reservoir                   Taunton        0.642857       45.454545             1
+423                              Blackstone River                Blackstone        0.641509       64.705882             1
+1114                                    Cat Brook             North Coastal        0.636364       66.666667             0
+278                            Hamilton Reservoir                 Quinebaug        0.636364       40.909091             3
+1202                           River Meadow Brook          Concord (SuAsCo)        0.636364       65.000000             0
+111                                 Runnins River  Narragansett Bay (Shore)        0.625000       37.500000             0
+1012                               Wachusett Lake                    Nashua        0.625000       37.500000             3
+1293                  South Branch Souhegan River                 Merrimack        0.625000       83.333333             0
+1021                               Spectacle Pond                    Nashua        0.625000       50.000000             2
+1166                              Shawsheen River                 Shawsheen        0.625000       83.333333             0
+1027                              Shawsheen River                 Shawsheen        0.625000       83.333333             0
+543                              Blackstone River                Blackstone        0.625000       62.500000             0
+1147                              Shawsheen River                 Shawsheen        0.625000       83.333333             0
+700                               Coal Mine Brook                Blackstone        0.625000       62.500000             0
+145                                Ten Mile River                  Ten Mile        0.625000       50.000000             0
+755                             Cold Harbor Brook          Concord (SuAsCo)        0.625000       83.333333             0
+1055                                   Webb Brook                 Shawsheen        0.625000       83.333333             0
+1273                              Shawsheen River                 Shawsheen        0.625000       83.333333             0
+540                                    Dark Brook                Blackstone        0.625000       83.333333             0
+1040                                 Bowers Brook                    Nashua        0.625000       83.333333             0
+1238                                  Miles River                   Ipswich        0.615385       61.538462             1
+1124                                  Otter River                   Millers        0.608696       61.904762             0
+656                                 Charles River                   Charles        0.600000       40.000000             1
+225                                Satucket River                   Taunton        0.600000       33.333333             0
+37                              Unnamed Tributary              Buzzards Bay        0.600000      150.000000             0
+153                                   Wenham Pond              Buzzards Bay        0.600000       50.000000             0
+304                         Salisbury Plain River                   Taunton        0.600000      100.000000             0
+149                            Puddingshear Brook                   Taunton        0.600000      100.000000             0
+1128                                Millers River                   Millers        0.600000       60.000000             0
+462                              Blackstone River                Blackstone        0.600000       60.000000             0
+705                                Williams River                Housatonic        0.600000       75.000000             0
+83                                  Doggett Brook              Buzzards Bay        0.600000      100.000000             0
+160                                 Bartlett Pond             South Coastal        0.600000      100.000000             0
+81                             Mattapoisett River              Buzzards Bay        0.600000      100.000000             0
+238                               Congamond Lakes                 Westfield        0.600000       57.142857            19
+875                                    Mill Brook                    Mystic        0.600000      100.000000             0
+479                              Blackstone River                Blackstone        0.600000       60.000000             0
+531                              Blackstone River                Blackstone        0.600000       60.000000             0
+845                                  Mystic River                    Mystic        0.600000       85.714286             0
+484                              Blackstone River                Blackstone        0.600000       60.000000             0
+106                                    Cole River    Mount Hope Bay (Shore)        0.600000      150.000000             0
+399                                 Charles River                   Charles        0.600000       60.000000             0
+104                             Rattlesnake Brook                   Taunton        0.600000      100.000000             0
+38                                  Santuit River                  Cape Cod        0.600000      100.000000             0
+561                          Crooked Meadow River           Weymouth & Weir        0.600000       60.000000             0
+749                                 Charles River                   Charles        0.600000       60.000000             0
+164                              Pine Swamp Brook                   Taunton        0.600000       66.666667             0
+70                                  Herring River                  Cape Cod        0.600000      100.000000             0
+836                                    Ware River                  Chicopee        0.600000       60.000000             0
+1226                                 Rogers Brook                 Shawsheen        0.588235       76.923077             0
+34                         Bread And Cheese Brook              Buzzards Bay        0.583333       58.333333             0
+30                     East Branch Westport River              Buzzards Bay        0.583333       50.000000             0
+473         Chicopee River/Red Bridge Impoundment                  Chicopee        0.571429       42.857143             4
+727                           Buckley-Dunton Lake                 Westfield        0.571429       50.000000             0
+588                               Sevenmile River                  Chicopee        0.555556       55.555556             0
+963                                  Saugus River             North Coastal        0.555556       62.500000             0
+400                              Blackstone River                Blackstone        0.555556       55.555556             0
+370                 Little River/Buffumville Lake                    French        0.550000       30.000000             5
+1232                                Ipswich River                   Ipswich        0.545455       54.545455             0
+1023                                 Hawkes Brook             North Coastal        0.545455       75.000000             0
+226                                  Wading River                   Taunton        0.545455       45.454545             0
+1123                              Whetstone Brook                   Millers        0.541667       72.222222             0
+794                                     Hop Brook          Concord (SuAsCo)        0.538462       53.846154             1
+847                                 Assabet River          Concord (SuAsCo)        0.538462       46.153846             0
+102                               Weweantic River              Buzzards Bay        0.533333       53.333333             0
+209                                Matfield River                   Taunton        0.529412       47.058824             0
+720                                Metacomet Lake               Connecticut        0.521739       26.086957             4
+585                            Quinsigamond River                Blackstone        0.510638       55.813953             0
+570                              Monatiquot River           Weymouth & Weir        0.500000       50.000000             0
+10                                 Angeline Brook              Buzzards Bay        0.500000       50.000000             0
+716                           Silver Spring Brook                Blackstone        0.500000      100.000000             0
+704                                  Sucker Brook                  Chicopee        0.500000       50.000000             0
+1080                             Nonacoicus Brook                    Nashua        0.500000       33.333333             0
+317                               Salisbury Brook                   Taunton        0.500000      100.000000             0
+693                                  Fuller Brook                   Charles        0.500000       60.000000             0
+1269                               Lawrence Brook                   Millers        0.500000       50.000000             0
+1092                           Catacoonamug Brook                    Nashua        0.500000       50.000000             0
+374                      East Brimfield Reservoir                 Quinebaug        0.500000       30.000000             5
+1095                              Shawsheen River                 Shawsheen        0.500000       66.666667             0
+327                             Rock Meadow Brook                Blackstone        0.500000       50.000000             0
+551                                   Broad Brook                  Chicopee        0.500000       50.000000             0
+569                              Monatiquot River           Weymouth & Weir        0.500000       50.000000             0
+553                                  Accord Brook           Weymouth & Weir        0.500000       50.000000             0
+642                                 Charles River                   Charles        0.500000       50.000000             0
+340                                    Pond Brook                Farmington        0.500000       50.000000             0
+729                             Unnamed Tributary                  Chicopee        0.500000      100.000000             0
+1119                             Pearl Hill Brook                    Nashua        0.500000       50.000000             0
+1155                                 Beaver Brook                   Millers        0.500000       50.000000             0
+1125                            Unnamed Tributary                   Millers        0.500000       50.000000             0
+202                             Unnamed Tributary                   Taunton        0.500000      100.000000             0
+1152                                   Field Pond                   Ipswich        0.500000       25.000000             1
+750                                 Charles River                   Charles        0.500000       50.000000             0
+730                                Danforth Brook                  Chicopee        0.500000       50.000000             0
+1304                                   Mill River                    Parker        0.500000       50.000000             0
+960                                Moccasin Brook                  Chicopee        0.500000       50.000000             0
+82                                Upper Mill Pond                  Cape Cod        0.500000       41.666667             1
+218                                Ten Mile River                  Ten Mile        0.500000       50.000000             0
+221                                  Peters River                Blackstone        0.500000       50.000000             1
+934                             Unnamed Tributary          Concord (SuAsCo)        0.500000       50.000000             0
+920                                   Dugan Brook          Concord (SuAsCo)        0.500000       50.000000             0
+984                             Unnamed Tributary                  Chicopee        0.500000       50.000000             0
+894                  East Branch Housatonic River                Housatonic        0.500000       50.000000             0
+242                                     Fox Brook                Blackstone        0.500000       50.000000             0
+885                                  Nashua River                    Nashua        0.500000       37.500000             0
+883                              Housatonic River                Housatonic        0.500000       50.000000             0
+874                                    Ware River                  Chicopee        0.500000       66.666667             0
+1008                                Nashoba Brook          Concord (SuAsCo)        0.500000       33.333333             0
+301                             Unnamed Tributary               Connecticut        0.500000       50.000000             0
+840                              Housatonic River                Housatonic        0.500000       50.000000             0
+265                                 Emerson Brook                Blackstone        0.500000       50.000000             0
+1029                                Manning Brook                  Chicopee        0.500000       50.000000             0
+805                                   Stony Brook                   Charles        0.500000       60.000000             0
+55                                      Long Pond                  Cape Cod        0.500000       31.428571             5
+1043                                  Smith Brook                    Nashua        0.500000      100.000000             0
+285                          Shumatuscacant River                   Taunton        0.500000       50.000000             0
+52                           Shingle Island River              Buzzards Bay        0.500000       50.000000             0
+769                                Fivemile River                  Chicopee        0.500000       50.000000             0
+763                             Cold Harbor Brook          Concord (SuAsCo)        0.500000       66.666667             0
+128                             Segreganset River                   Taunton        0.500000       50.000000             0
+1229                                Howlett Brook                   Ipswich        0.500000       50.000000             0
+525                            Quinsigamond River                Blackstone        0.500000       50.000000             0
+697                                  Meadow Brook                  Chicopee        0.500000       50.000000             0
+478                                   Pequot Pond                 Westfield        0.500000       50.000000             8
+1195                                Millers River                   Millers        0.500000       56.000000             0
+424                              Blackstone River                Blackstone        0.500000       50.000000             0
+414                            Moose Meadow Brook                 Westfield        0.500000       50.000000             0
+1175                            Squannacook River                    Nashua        0.490909       55.102041             0
+125                                    Great Pond                  Cape Cod        0.478261       39.130435             9
+657                             Nashawannuck Pond               Connecticut        0.478261       50.000000            10
+439                          Lower Spectacle Pond                Farmington        0.476190       23.809524             3
+231                                Satucket River                   Taunton        0.470588       41.176471             0
+312                                   Trout Brook                   Taunton        0.466667       46.666667             0
+1100                                  Lyons Brook                   Millers        0.466667       53.846154             0
+281                         Salisbury Plain River                   Taunton        0.466667       46.666667             0
+79                                 Acushnet River              Buzzards Bay        0.466667       40.000000             0
+1150                                  Otter River                   Millers        0.466667       46.666667             0
+1315                    Upper Artichoke Reservoir                 Merrimack        0.461538       46.153846             4
+292                                 Rumford River                   Taunton        0.454545       45.454545             0
+293                                   Canoe River                   Taunton        0.454545       45.454545             0
+243                                  Stetson Pond                   Taunton        0.454545       36.363636             7
+359                              Drinkwater River             South Coastal        0.454545       36.363636             0
+583                              Blackstone River                Blackstone        0.454545       45.283019             0
+159                             Unnamed Tributary             South Coastal        0.454545       45.454545             0
+489                                   Pequot Pond                 Westfield        0.450980       43.137255            18
+177                               Sevenmile River                  Ten Mile        0.444444       44.444444             0
+262                             Poor Meadow Brook                   Taunton        0.444444       57.142857             0
+211                                Ten Mile River                  Ten Mile        0.444444       44.444444             0
+147                               Sevenmile River                  Ten Mile        0.444444       44.444444             0
+193                                Ten Mile River                  Ten Mile        0.444444       33.333333             0
+169                                Ten Mile River                  Ten Mile        0.444444       44.444444             0
+1083                            Unnamed Tributary             North Coastal        0.444444       44.444444             0
+425                                 Cochato River           Weymouth & Weir        0.428571       28.571429             0
+623                               Sevenmile River                  Chicopee        0.428571       42.857143             0
+843                                    Boons Pond          Concord (SuAsCo)        0.428571       28.571429             5
+611                                   Swift River                  Chicopee        0.428571       42.857143             0
+167                                 Taunton River                   Taunton        0.421053       36.842105             0
+1143                                Millers River                   Millers        0.416667       50.000000             0
+358                               Quinebaug River                 Quinebaug        0.409091       40.909091             0
+466                                    Horse Pond                 Westfield        0.400000       40.000000             1
+549                                 Charles River                   Charles        0.400000       40.000000             0
+709                               Poor Farm Brook                Blackstone        0.400000       50.000000             0
+703                              Goose Pond Brook                Housatonic        0.400000       40.000000             0
+1212                                  North River                 Deerfield        0.400000       33.333333             0
+844                                 Sudbury River          Concord (SuAsCo)        0.400000       50.000000             2
+311                               Salisbury Brook                   Taunton        0.400000       40.000000             0
+113                               Clear Run Brook  Narragansett Bay (Shore)        0.400000      100.000000             0
+935                                 Sudbury River          Concord (SuAsCo)        0.400000       33.333333             0
+136                    East Branch (Palmer River)  Narragansett Bay (Shore)        0.400000       66.666667             0
+461                                 Charles River                   Charles        0.400000      100.000000             0
+421                                 Cochato River           Weymouth & Weir        0.400000       20.000000             0
+792                                    Fort River               Connecticut        0.400000       40.000000             0
+612                               Pine Tree Brook                  Neponset        0.400000       66.666667             0
+33                              Paskamanset River              Buzzards Bay        0.400000      100.000000             0
+355                                   North River             South Coastal        0.384615       30.769231             0
+850                                 Assabet River          Concord (SuAsCo)        0.384615       38.461538             0
+469                                 Herring River             South Coastal        0.384615       38.461538             0
+219                               Congamond Lakes                 Westfield        0.380952       38.095238             7
+1022                                Nashoba Brook          Concord (SuAsCo)        0.377778       37.209302             0
+1219                      West Branch Tully River                   Millers        0.375000       50.000000             0
+865                                  Mystic River                    Mystic        0.375000       42.857143             0
+322                            Green Harbor River             South Coastal        0.375000       50.000000             0
+1127                            Unnamed Tributary                    Nashua        0.375000       50.000000             0
+1045                                   Queen Lake                  Chicopee        0.375000       20.833333             2
+331                                   Muddy Brook                Blackstone        0.375000       37.500000             0
+1280                                Baldpate Pond                    Parker        0.375000       25.000000             2
+1108                           North Nashua River                    Nashua        0.375000       50.000000             0
+944                                    Onota Lake                Housatonic        0.375000       37.500000             2
+386                                  Beaver Brook                  Neponset        0.375000       50.000000             0
+544                                Tubwreck Brook                  Neponset        0.375000       50.000000             0
+546                                Neponset River                  Neponset        0.375000       46.153846             0
+658                               Sevenmile River                  Chicopee        0.370370       38.461538             0
+336                                     York Lake                Farmington        0.368421       36.842105             6
+43                                   Santuit Pond                  Cape Cod        0.363636       40.000000             1
+927                        East Branch Ware River                  Chicopee        0.363636       36.363636             0
+757                                 Assabet River          Concord (SuAsCo)        0.363636       36.363636             0
+886                                 Assabet River          Concord (SuAsCo)        0.361702       37.777778             0
+1164                               Nabnasset Pond                 Merrimack        0.347826       34.782609             6
+155                                Ten Mile River                  Ten Mile        0.333333       33.333333             0
+1117                                Whitman River                    Nashua        0.333333       33.333333             0
+435                          Second Herring Brook             South Coastal        0.333333       33.333333             0
+671                             Unnamed Tributary                  Chicopee        0.333333       33.333333             0
+140                                 Taunton River                   Taunton        0.333333       26.666667             0
+1178                            Unnamed Tributary                   Ipswich        0.333333       33.333333             0
+631                                     Shaw Pond                Farmington        0.333333       33.333333             4
+817                                Amethyst Brook               Connecticut        0.333333       60.000000             0
+1174                                  Keyup Brook                   Millers        0.333333       33.333333             0
+108                                Snipatuit Pond              Buzzards Bay        0.333333       33.333333             0
+152                                     Eel River             South Coastal        0.333333       33.333333             0
+613                           Forget-Me-Not Brook                  Chicopee        0.333333       33.333333             0
+249                                  Meadow Brook                   Taunton        0.333333       26.666667             0
+503                                 Pecunit Brook                  Neponset        0.333333       33.333333             0
+12                             Coonamessett River                  Cape Cod        0.333333       33.333333             0
+633                             Unnamed Tributary                  Chicopee        0.333333       33.333333             0
+144                                Ten Mile River                  Ten Mile        0.333333       22.222222             0
+917                               Doolittle Brook               Connecticut        0.333333       33.333333             0
+143                                Ten Mile River                  Ten Mile        0.333333       33.333333             0
+577                             Cold Spring Brook          Concord (SuAsCo)        0.333333       33.333333             0
+1272                                 Windsor Lake                    Hoosic        0.333333       33.333333             5
+268                                 Emerson Brook                Blackstone        0.333333       35.294118             0
+161                             Unnamed Tributary                  Ten Mile        0.333333       50.000000             0
+770                                    Ware River                  Chicopee        0.333333       33.333333             0
+115                             White Island Pond              Buzzards Bay        0.324324       32.926829             4
+985                                Bare Hill Pond                    Nashua        0.318182       18.181818             3
+215                               Round Top Brook                Blackstone        0.315789       31.578947             0
+818                                 Assabet River          Concord (SuAsCo)        0.307692       30.769231             0
+205                                 Taunton River                   Taunton        0.307692       30.769231             0
+1173         Boston Brook/Upper Boston Brook Pond                   Ipswich        0.307692       23.076923             0
+863                                 Assabet River          Concord (SuAsCo)        0.307692       30.769231             0
+781                                 Assabet River          Concord (SuAsCo)        0.307692       30.769231             0
+396                                 Hopping Brook                   Charles        0.300000       22.222222             0
+638                             Unnamed Tributary                   Charles        0.300000       30.000000             0
+119                             White Island Pond              Buzzards Bay        0.300000             inf             0
+134                    West Branch (Palmer River)  Narragansett Bay (Shore)        0.300000       33.333333             0
+1184                                  Stony Brook                 Merrimack        0.300000       50.000000             0
+955   Roaring Brook/Roaring Brook Upper Reservoir               Connecticut        0.282051       28.205128            10
+943                       West Branch Swift River                  Chicopee        0.275362       94.736842             0
+457                                    West River                Blackstone        0.272727       25.000000             0
+203                                   Jones River             South Coastal        0.272727       27.272727             0
+691                                    Goose Pond                Housatonic        0.272727       18.181818             1
+350                               Iron Mine Brook             South Coastal        0.272727       27.272727             0
+418                                Mary Lee Brook           Weymouth & Weir        0.272727       33.333333             0
+50                                      Long Pond                  Cape Cod        0.263158       21.052632             1
+1140                                Millers River                   Millers        0.260870       27.272727             0
+487                                   Benton Pond                Farmington        0.254902       25.490196             8
+884                               Elizabeth Brook          Concord (SuAsCo)        0.250000       33.333333             0
+1189                            Unnamed Tributary                 Shawsheen        0.250000       50.000000             0
+28                                  Mashpee River                  Cape Cod        0.250000       33.333333             0
+109                                  Torrey Creek  Narragansett Bay (Shore)        0.250000       25.000000             0
+747                                 Sudbury River          Concord (SuAsCo)        0.250000       25.862069             0
+66                               Quequechan River    Mount Hope Bay (Shore)        0.250000       33.333333             0
+206                                    Town River                   Taunton        0.250000       25.000000             0
+440                               Old Swamp River           Weymouth & Weir        0.250000       16.666667             0
+972                                Wekepeke Brook                    Nashua        0.250000       33.333333             0
+723                             Unnamed Tributary                Blackstone        0.250000       25.000000             0
+197                         Mulberry Meadow Brook                   Taunton        0.250000       25.000000             0
+451                                Reservoir Pond                  Neponset        0.250000       25.000000             0
+431                                    Stop River                   Charles        0.250000       30.000000             0
+896                       East Branch Swift River                  Chicopee        0.250000       25.000000             0
+306                                    Cady Brook                 Quinebaug        0.250000       33.333333             0
+93                                     Cole River    Mount Hope Bay (Shore)        0.250000       25.000000             0
+176                                  Bungay River                  Ten Mile        0.250000       25.000000             0
+480                                    West River                Blackstone        0.250000       25.000000             0
+741                                    Ware River                  Chicopee        0.250000       25.000000             0
+454                                  Warren Brook                Blackstone        0.250000       25.000000             0
+289                                 Rumford River                   Taunton        0.250000       33.333333             0
+123                                 Runnins River  Narragansett Bay (Shore)        0.250000       50.000000             0
+811                                     Hop Brook          Concord (SuAsCo)        0.250000       33.333333             0
+592                                  Kettle Brook                Blackstone        0.250000       33.333333             0
+777                                    Ware River                  Chicopee        0.250000       25.000000             0
+405                              Wellington Brook                    French        0.250000       33.333333             0
+846                                   North Brook          Concord (SuAsCo)        0.250000       25.000000             0
+116                             White Island Pond              Buzzards Bay        0.247423       23.076923             4
+786                                     Long Pond                  Chicopee        0.238095       14.285714             2
+11                     West Branch Westport River              Buzzards Bay        0.235294       30.769231             1
+903                                 Sudbury River          Concord (SuAsCo)        0.230769       23.076923             0
+661                                   Swift River                  Chicopee        0.230769       24.000000             0
+333                                   South River             South Coastal        0.230769       15.384615             0
+1036                                  Mirror Lake                    Nashua        0.222222       22.222222             2
+235                              Blackstone River                Blackstone        0.222222       22.222222             0
+208                                    Town River                   Taunton        0.222222       28.571429             0
+210                               Monponsett Pond                   Taunton        0.221311       15.254237             7
+234                              Blackstone River                Blackstone        0.216216       24.242424             0
+933                                   Gaston Pond                  Chicopee        0.214286       14.285714             0
+373                                    Cady Brook                 Quinebaug        0.204545       20.930233             0
+498                                    Mill River           Weymouth & Weir        0.200000       20.000000             0
+283                              Blackstone River                Blackstone        0.200000       20.000000             0
+515                                    Mill River           Weymouth & Weir        0.200000       20.000000             0
+61                                  Copicut River              Buzzards Bay        0.200000       20.000000             0
+232                              Blackstone River                Blackstone        0.200000       10.000000             0
+512                               Old Swamp River           Weymouth & Weir        0.200000       20.000000             0
+411                                Neponset River                  Neponset        0.200000       25.000000             0
+389                                    Stop River                   Charles        0.200000       20.000000             0
+1303                      East Branch North River                 Deerfield        0.200000       33.333333             0
+967                  East Branch Housatonic River                Housatonic        0.200000       50.000000             0
+56                             Mattapoisett River              Buzzards Bay        0.200000       33.333333             0
+511                                Ponkapoag Pond                  Neponset        0.200000       13.333333             0
+563                                 Dopping Brook                   Charles        0.200000       20.000000             0
+298                          Shumatuscacant River                   Taunton        0.200000       33.333333             0
+673                                 Assabet River          Concord (SuAsCo)        0.200000       20.000000             0
+831                                   Yokun Brook                Housatonic        0.200000       25.000000             0
+323                                 Pudding Brook             South Coastal        0.200000       33.333333             0
+582                                Williams River                Housatonic        0.200000       25.000000             0
+1213                                   Cold River                 Deerfield        0.200000       33.333333             0
+878                                 Assabet River          Concord (SuAsCo)        0.200000       21.428571             0
+1020                            Unnamed Tributary                 Deerfield        0.200000       50.000000             0
+444                                  Potash Brook                 Westfield        0.200000       25.000000             0
+779                              Housatonic River                Housatonic        0.200000       20.000000             0
+166                                Billington Sea             South Coastal        0.194444       30.000000             2
+728                                  Arcadia Lake               Connecticut        0.187500       20.000000             0
+764                              Stockbridge Bowl                Housatonic        0.181818       18.181818             1
+827                                   Trout Brook                    Nashua        0.181818       25.000000             0
+565                           Weymouth Back River           Weymouth & Weir        0.181818       18.181818             0
+1210                                Concord River          Concord (SuAsCo)        0.176471       17.647059             0
+644                  Kettle Brook Reservoir No. 1                Blackstone        0.176471       11.764706             2
+690                                    Ware River                  Chicopee        0.166667       16.666667             0
+652                                 Tatnuck Brook                Blackstone        0.166667       16.666667             0
+1053                           Catacoonamug Brook                    Nashua        0.166667       16.666667             0
+645                 Middle Branch Westfield River                 Westfield        0.166667       20.000000             0
+280                                  Furnace Pond             South Coastal        0.166667       18.181818             1
+348                                 French Stream             South Coastal        0.166667       16.666667             0
+1110                                  James Brook                    Nashua        0.166667       16.666667             0
+830                                    Mill River               Connecticut        0.166667       16.666667             0
+488                               Cranberry Brook           Weymouth & Weir        0.166667       16.666667             0
+1148                                  Keyup Brook                   Millers        0.166667       20.000000             0
+771                               Malagasco Brook                    Nashua        0.166667       16.666667             0
+796                                 Sudbury River          Concord (SuAsCo)        0.153846       15.384615             0
+643                                 Sudbury River          Concord (SuAsCo)        0.153846       15.384615             0
+1134                                Millers River                   Millers        0.153846       18.181818             0
+1231                                Ipswich River                   Ipswich        0.153846       15.384615             0
+958                                 Concord River          Concord (SuAsCo)        0.153846       15.384615             0
+945                                 Assabet River          Concord (SuAsCo)        0.153846       15.384615             0
+54                             South Watuppa Pond    Mount Hope Bay (Shore)        0.142857       14.285714             2
+434                                  Center Brook                Blackstone        0.142857       20.000000             0
+579                         East Brookfield River                  Chicopee        0.142857       14.285714             0
+1062                                 Nashua River                    Nashua        0.142857       16.666667             0
+133                                  Halfway Pond              Buzzards Bay        0.136364       13.636364             0
+1106                           River Meadow Brook          Concord (SuAsCo)        0.136364       15.000000             1
+139                               Threemile River                   Taunton        0.133333       13.333333             0
+901                                 Assabet River          Concord (SuAsCo)        0.133333       13.333333             0
+173                                  Wading River                   Taunton        0.133333       13.333333             0
+284                                 Stevens Brook                 Quinebaug        0.125000       16.666667             0
+1064                           Catacoonamug Brook                    Nashua        0.125000       16.666667             0
+953                                   Onota Brook                Housatonic        0.125000       12.500000             0
+261                               Breakneck Brook                 Quinebaug        0.125000       16.666667             0
+397                             Unnamed Tributary                 Quinebaug        0.125000       16.666667             0
+1182                              West Gulf Brook                   Millers        0.125000       16.666667             0
+517                                    Mill Brook                  Neponset        0.125000       16.666667             0
+1024                            Unnamed Tributary          Concord (SuAsCo)        0.125000       50.000000             0
+347                             Unnamed Tributary                    French        0.125000       16.666667             0
+997                                  Nashua River                    Nashua        0.125000       12.500000             0
+1160                                  Jacks Brook                   Millers        0.125000       16.666667             0
+1263                                Willard Brook                    Nashua        0.125000       14.285714             0
+1075                                Whitman River                    Nashua        0.125000       16.666667             0
+1317                                Cobbler Brook                 Merrimack        0.125000       16.666667             0
+1167                                 Mulpus Brook                    Nashua        0.125000       16.666667             0
+681                                    West Brook                Blackstone        0.125000       12.500000             0
+224                              Blackstone River                Blackstone        0.125000       12.500000             0
+929                                   Swift River                 Westfield        0.125000       14.285714             0
+1313                                 Little River                 Merrimack        0.125000       16.666667             0
+1312                                Johnson Creek                 Merrimack        0.125000       16.666667             0
+442                                  Little River                    French        0.125000       16.666667             0
+669                                  Weston Brook               Connecticut        0.125000       12.500000             0
+662                                Neponset River                  Neponset        0.125000       20.000000             0
+1037                              Monoosnoc Brook                    Nashua        0.125000       16.666667             0
+902                               Elizabeth Brook          Concord (SuAsCo)        0.125000       16.666667             0
+318                                 Mumford River                Blackstone        0.125000       12.500000             0
+629      West Branch Walker Brook/Robin Hood Lake                 Westfield        0.111111       11.111111             2
+212                               Monponsett Pond                   Taunton        0.111111        7.633588             5
+492                                Chicopee River                  Chicopee        0.111111       12.500000             0
+1305                    North Branch Hoosic River                    Hoosic        0.111111       11.111111             0
+1185                                Alewife Brook             North Coastal        0.111111       11.111111             0
+1283                                  Paull Brook                    Hoosic        0.111111       16.666667             0
+603                                    Ware River                  Chicopee        0.111111       11.320755             0
+1288                                 Hoosic River                    Hoosic        0.111111       11.111111             0
+18                                    Snell Creek              Buzzards Bay        0.111111       11.111111             0
+394                                Chicopee Brook                  Chicopee        0.100000       14.285714             0
+78                                   Walkers Pond                  Cape Cod        0.100000       10.000000             0
+419                                 Chicken Brook                   Charles        0.100000       11.111111             0
+338                                  Beaver Brook                   Charles        0.100000       11.111111             0
+900             Southwest Branch Housatonic River                Housatonic        0.100000       12.500000             0
+1103                                 Mulpus Brook                    Nashua        0.100000       14.285714             0
+616                                   Stony Brook               Connecticut        0.100000       10.000000             0
+337                             Indian Head River             South Coastal        0.090909        9.090909             0
+371                           Third Herring Brook             South Coastal        0.090909        9.090909             0
+190                                 Rumford River                   Taunton        0.090909        9.090909             0
+17                                    Snell Creek              Buzzards Bay        0.090909        9.090909             0
+992                            North Nashua River                    Nashua        0.089286        9.259259             0
+685                                 Lampson Brook               Connecticut        0.083333        8.333333             0
+1079                                 Hoosic River                    Hoosic        0.083333       11.111111             0
+447                                    Pond Brook                 Westfield        0.083333       16.666667             0
+86                                Lower Mill Pond                  Cape Cod        0.083333        8.333333             0
+1217                                Concord River          Concord (SuAsCo)        0.080000        9.523810             0
+217                                 Rumford River                   Taunton        0.076923        7.692308             0
+1120                                Concord River          Concord (SuAsCo)        0.076923        7.692308             0
+1071                                Concord River          Concord (SuAsCo)        0.076923        7.692308             0
+762                                    Fort River               Connecticut        0.066667        6.666667             0
+1243                  Nashua River/Pepperell Pond                    Nashua        0.066667        6.666667             1
+165                               Threemile River                   Taunton        0.066667        6.666667             0
+802                                    Mill River               Connecticut        0.058824        5.882353             0
+1289                                 Dunbar Brook                 Deerfield        0.052632        8.333333             0
+251                                  Browns Brook                 Quinebaug        0.052632       25.000000             0
+237                                  French River                    French        0.045455        4.545455             0
+911                                  Nashua River                    Nashua        0.043478        4.545455             1
+276                                  French River                    French        0.022727        2.380952             0
+233                               Quinebaug River                 Quinebaug        0.022222        2.272727             0
+1252                                 Nashua River                    Nashua        0.020833        2.173913             0
+841                             Unnamed Tributary                  Chicopee        0.020000      100.000000             0
+483                                 Quaboag River                  Chicopee        0.019231        1.960784             0
+1162                               Fourmile Brook               Connecticut        0.000000        0.000000             0
+1104                           North Nashua River                    Nashua        0.000000        0.000000             0
+1073                                 Bently Brook                Kinderhook        0.000000        0.000000             0
+45                                    Bumps River                  Cape Cod        0.000000             NaN             0
+9                                     Witch Brook                   Islands        0.000000             NaN             0
+1284                                   Mill Brook               Connecticut        0.000000        0.000000             0
+13                                      Red Brook                  Cape Cod        0.000000             NaN             0
+1310                                  Broad Brook                    Hoosic        0.000000             NaN             0
+990                               Westfield Brook                 Westfield        0.000000        0.000000             0
+1239                           Stodge Meadow Pond                 Merrimack        0.000000        0.000000             0
+23                                     Quaker Run                  Cape Cod        0.000000             NaN             0
+1237                                 Hoosic River                    Hoosic        0.000000        0.000000             0
+987                             Unnamed Tributary               Connecticut        0.000000             NaN             0
+1236                               Gravelly Brook                   Ipswich        0.000000        0.000000             0
+1240                                 Hoosic River                    Hoosic        0.000000        0.000000             0
+8                                Paint Mill Brook                   Islands        0.000000             NaN             0
+1186                                 Nashua River                    Nashua        0.000000        0.000000             0
+1309                                  Broad Brook                    Hoosic        0.000000             NaN             0
+1156                                Clesson Brook                 Deerfield        0.000000        0.000000             0
+1069                              Ellinwood Brook                   Millers        0.000000        0.000000             0
+1187                      East Branch Green River                    Hoosic        0.000000        0.000000             0
+1001                                 Stones Brook                 Westfield        0.000000        0.000000             0
+1157                                  Clark Brook                 Deerfield        0.000000        0.000000             0
+67                                  Herring River                  Cape Cod        0.000000             NaN             0
+1227                                 Rogers Brook                 Shawsheen        0.000000             NaN             0
+1306                                 Hoosic River                    Hoosic        0.000000        0.000000             0
+1307                                Jackman Brook                    Parker        0.000000        0.000000             0
+1218                                    Dry Brook               Connecticut        0.000000        0.000000             0
+1070                                Wickett Brook                   Millers        0.000000             NaN             0
+1215                              Southwick Brook                    Hoosic        0.000000        0.000000             0
+22                               Buttonwood Brook              Buzzards Bay        0.000000        0.000000             0
+999                                    Shaw Brook                 Westfield        0.000000        0.000000             0
+68                              Unnamed Tributary              Buzzards Bay        0.000000             NaN             0
+1214                                 Hoosic River                    Hoosic        0.000000        0.000000             0
+1107                                Content Brook                 Shawsheen        0.000000             NaN             0
+1105                                 Nashua River                    Nashua        0.000000        0.000000             0
+1161                                 Tophet Brook                    Hoosic        0.000000        0.000000             0
+1308                                  Broad Brook                    Hoosic        0.000000        0.000000             0
+1235                                Howlett Brook                   Ipswich        0.000000             NaN             0
+986                               Westfield River                 Westfield        0.000000             NaN             0
+1311                            Unnamed Tributary                    Hoosic        0.000000             NaN             0
+1266                                 Hopper Brook                    Hoosic        0.000000        0.000000             0
+1271                            Connecticut River               Connecticut        0.000000        0.000000             0
+1086                                  Baker Brook                    Nashua        0.000000        0.000000             0
+1230                                 Hopper Brook                    Hoosic        0.000000             NaN             0
+1176                                 Hoosic River                    Hoosic        0.000000        0.000000             0
+1194                                  Green River                    Hoosic        0.000000        0.000000             0
+1177                                 Hoosic River                    Hoosic        0.000000        0.000000             0
+970                              Long Plain Brook               Connecticut        0.000000        0.000000             0
+969                                  Meadow Brook                 Westfield        0.000000        0.000000             0
+968      East Branch Housatonic River/Center Pond                Housatonic        0.000000             NaN             0
+1179                                   Fall River               Connecticut        0.000000        0.000000             0
+1085                           North Nashua River                    Nashua        0.000000        0.000000             0
+1084                                  South Brook                    Hoosic        0.000000        0.000000             0
+1081                            Unnamed Tributary          Concord (SuAsCo)        0.000000        0.000000             0
+1180                                 Miller Brook                    Hoosic        0.000000        0.000000             0
+15                                   Childs River                  Cape Cod        0.000000             NaN             0
+965                  East Branch Housatonic River                Housatonic        0.000000        0.000000             0
+1181                                 Bozrah Brook                 Deerfield        0.000000        0.000000             0
+1193                                 Hoosic River                    Hoosic        0.000000        0.000000             0
+2                                   Roaring Brook                   Islands        0.000000             NaN             0
+1220                                  Green River                 Deerfield        0.000000        0.000000             0
+1087                                 Dragon Brook                 Deerfield        0.000000             NaN             0
+1207                                 Hoosic River                    Hoosic        0.000000        0.000000             0
+1234                               Gravelly Brook                   Ipswich        0.000000             NaN             0
+1172                                   Fall River               Connecticut        0.000000        0.000000             0
+983                               Westfield Brook                 Westfield        0.000000        0.000000             0
+1206                                 Hoosic River                    Hoosic        0.000000        0.000000             0
+982                               Westfield Brook                 Westfield        0.000000             NaN             0
+1096                                  Lyons Brook                   Millers        0.000000             NaN             0
+1094                              Westfield River                 Westfield        0.000000        0.000000             0
+75                              Unnamed Tributary                  Cape Cod        0.000000             NaN             0
+978                          Wahconah Falls Brook                Housatonic        0.000000        0.000000             0
+4                                  Tiasquam River                   Islands        0.000000             NaN             0
+1233                                 Hoosic River                    Hoosic        0.000000        0.000000             0
+977                                  Chapel Brook                 Deerfield        0.000000        0.000000             0
+39                              Unnamed Tributary                  Cape Cod        0.000000             NaN             0
+1267                                  Green River                    Hoosic        0.000000        0.000000             0
+1089                                Kitchen Brook                    Hoosic        0.000000        0.000000             0
+975                                    Mill Brook                 Westfield        0.000000             NaN             0
+42                           Marstons Mills River                  Cape Cod        0.000000             NaN             0
+1168                                 Mulpus Brook                    Nashua        0.000000        0.000000             0
+1169                                   Fall River               Connecticut        0.000000        0.000000             0
+41                                   Lovells Pond                  Cape Cod        0.000000             NaN             0
+3                                  Tiasquam River                   Islands        0.000000             NaN             0
+1278                                 Sucker Brook                    Nashua        0.000000        0.000000             0
+1302                                 Hoosic River                    Hoosic        0.000000        0.000000             0
+1003                                Sawmill River               Connecticut        0.000000             NaN             0
+1251                                 Hoosic River                    Hoosic        0.000000        0.000000             0
+1191                      East Branch Green River                    Hoosic        0.000000        0.000000             0
+1287                                  Green River                    Hoosic        0.000000        0.000000             0
+49                                   Hamblin Pond                  Cape Cod        0.000000        0.000000             0
+1058                                  Lyons Brook                   Millers        0.000000             NaN             0
+1190                               Hinsdale Brook                 Deerfield        0.000000        0.000000             0
+1126                                Wheeler Brook                 Deerfield        0.000000        0.000000             0
+1059                            Hallockville Pond                 Deerfield        0.000000        0.000000             0
+1060                              Westfield River                 Westfield        0.000000        0.000000             0
+1282                              West Wait Brook               Connecticut        0.000000             NaN             0
+1129                                 Beaver Brook                   Millers        0.000000             NaN             0
+1030                                  South River                 Deerfield        0.000000        0.000000             0
+1111                                Content Brook                 Shawsheen        0.000000        0.000000             0
+1132                                 Nashua River                    Nashua        0.000000        0.000000             0
+1253                      East Branch North River                 Deerfield        0.000000        0.000000             0
+1028                              Westfield River                 Westfield        0.000000             NaN             0
+6                                  Tiasquam River                   Islands        0.000000             NaN             0
+1290                            Nissitissit River                    Nashua        0.000000             NaN             0
+1025                                   Mill Brook                 Westfield        0.000000        0.000000             0
+1216                                 Hoosic River                    Hoosic        0.000000        0.000000             0
+1201                                   Cold River                 Deerfield        0.000000        0.000000             0
+1056                                 Nashua River                    Nashua        0.000000        0.000000             0
+1254                            Nissitissit River                    Nashua        0.000000        0.000000             0
+1118                                Whitman River                    Nashua        0.000000        0.000000             0
+1051                                Sawmill River               Connecticut        0.000000        0.000000             0
+1050                             Kinderhook Creek                Kinderhook        0.000000        0.000000             0
+1115                                  Green River                 Deerfield        0.000000        0.000000             0
+1049                               Billings Brook                 Westfield        0.000000        0.000000             0
+1258                                Foundry Brook                 Deerfield        0.000000        0.000000             0
+1198                               Chickley River                 Deerfield        0.000000        0.000000             0
+1257                              East Glen Brook                 Deerfield        0.000000        0.000000             0
+1052                           North Nashua River                    Nashua        0.000000        0.000000             0
+1259                      West Branch North River                 Deerfield        0.000000        0.000000             0
+1200                                 Hoosic River                    Hoosic        0.000000        0.000000             0
+1255                                 Beaver Brook                 Merrimack        0.000000        0.000000             0
+1054                             Kinderhook Creek                Kinderhook        0.000000        0.000000             0
+14                              Unnamed Tributary                  Cape Cod        0.000000             NaN             0
+1199                                   Fish Brook                   Ipswich        0.000000             NaN             0
+1042                                  South River                 Deerfield        0.000000             NaN             0
+1041                           North Nashua River                    Nashua        0.000000        0.000000             0
+1121                           North Nashua River                    Nashua        0.000000        0.000000             0
+1122                            Unnamed Tributary                    Nashua        0.000000        0.000000             0
+1261                                  Green River                    Hoosic        0.000000        0.000000             0
+1136                                 Mulpus Brook                    Nashua        0.000000             NaN             0
+1068                            Unnamed Tributary                   Millers        0.000000        0.000000             0
+1137                                Bassett Brook                    Hoosic        0.000000             NaN             0
+1014                                Concord River          Concord (SuAsCo)        0.000000        0.000000             0
+27                                  Herring Brook              Buzzards Bay        0.000000             NaN             0
+7                                  Tiasquam River                   Islands        0.000000             NaN             0
+1013                               Creamery Brook                 Deerfield        0.000000        0.000000             0
+1297                                 Buxton Brook                    Hoosic        0.000000        0.000000             0
+5                                  Tiasquam River                   Islands        0.000000             NaN             0
+1011                                  South River                 Deerfield        0.000000        0.000000             0
+1299                              Louisiana Brook               Connecticut        0.000000             NaN             0
+1010                                   Fall Brook                    Nashua        0.000000             NaN             0
+1009                         Cranberry Pond Brook               Connecticut        0.000000        0.000000             0
+1067                                Shingle Brook                 Deerfield        0.000000        0.000000             0
+1007                                 Poland Brook                 Deerfield        0.000000        0.000000             0
+1188                      East Branch Green River                    Hoosic        0.000000             NaN             0
+1006                                  Giles Brook                  Chicopee        0.000000        0.000000             0
+1153                               Phillips Brook                    Nashua        0.000000        0.000000             0
+1300                               Shattuck Brook               Connecticut        0.000000        0.000000             0
+1285                    North Branch Hoosic River                    Hoosic        0.000000        0.000000             0
+1242                                 Hoosic River                    Hoosic        0.000000        0.000000             0
+1005                                   Mill Brook                 Westfield        0.000000        0.000000             0
+1262                                 Hopper Brook                    Hoosic        0.000000        0.000000             0
+1245                                 Hoosic River                    Hoosic        0.000000        0.000000             0
+1246                                 Hoosic River                    Hoosic        0.000000        0.000000             0
+1248                                   Cold River                 Deerfield        0.000000        0.000000             0
+1082                                   Bear River                 Deerfield        0.000000             NaN             0
+1138                                Bassett Brook                    Hoosic        0.000000        0.000000             0
+1139                      East Branch Green River                    Hoosic        0.000000             NaN             0
+1250                                 Beaver Brook                 Merrimack        0.000000        0.000000             0
+1063                                   Pond Brook               Connecticut        0.000000        0.000000             0
+47                                   Santuit Pond                  Cape Cod        0.000000             NaN             0
+1019                                   Mill River               Connecticut        0.000000        0.000000             0
+1018                                   Mill River               Connecticut        0.000000        0.000000             0
+1017                                   Town Brook                Housatonic        0.000000        0.000000             0
+1296                                  Green River                 Deerfield        0.000000        0.000000             0
+1066                            Unnamed Tributary               Connecticut        0.000000        0.000000             0
+1294                                 Nashua River                    Nashua        0.000000        0.000000             0
+1016                                   Town Brook                Housatonic        0.000000        0.000000             0
+19                                 Quashnet River                  Cape Cod        0.000000             NaN             0
+1144                                  Green River                 Deerfield        0.000000        0.000000             0
+1295                                 Thorne Brook                 Deerfield        0.000000        0.000000             0
+1145                            Unnamed Tributary                   Ipswich        0.000000             NaN             0
+1247                      West Branch North River                 Deerfield        0.000000        0.000000             0
+1292                                  Green River                    Hoosic        0.000000        0.000000             0
+767                             Unnamed Tributary               Connecticut        0.000000        0.000000             0
+961                                 Roaring Brook               Connecticut        0.000000             NaN             0
+493                                  Benton Brook                Farmington        0.000000        0.000000             0
+438                                   Kings Brook                  Chicopee        0.000000        0.000000             0
+441                                  Fuller Brook                  Chicopee        0.000000        0.000000             0
+446                                   Penny Brook                  Chicopee        0.000000             NaN             0
+449                                    Pond Brook                 Westfield        0.000000        0.000000             0
+453                                Neponset River                  Neponset        0.000000        0.000000             0
+188                                Ten Mile River                  Ten Mile        0.000000        0.000000             0
+458                                 Quaboag River                  Chicopee        0.000000        0.000000             0
+459                           Blodgett Mill Brook                  Chicopee        0.000000        0.000000             0
+460                                  Rawson Brook                Housatonic        0.000000        0.000000             0
+463                                   Hawes Brook                  Neponset        0.000000        0.000000             0
+467                             Cold Spring Brook                Blackstone        0.000000        0.000000             0
+468                                    Clam River                Farmington        0.000000             NaN             0
+471                                Chicopee River                  Chicopee        0.000000        0.000000             0
+474                                Bogastow Brook                   Charles        0.000000        0.000000             0
+475                                   Green River                Housatonic        0.000000        0.000000             0
+477                                 Quaboag River                  Chicopee        0.000000        0.000000             0
+485                               Old Swamp River           Weymouth & Weir        0.000000        0.000000             0
+486                              Singletary Brook                Blackstone        0.000000        0.000000             0
+490                                   Stage Brook                 Westfield        0.000000        0.000000             0
+437                                Chicopee River                  Chicopee        0.000000        0.000000             0
+436                                     Arm Brook                 Westfield        0.000000             NaN             0
+433                                    Clam River                Farmington        0.000000        0.000000             0
+408                             Unnamed Tributary                  Chicopee        0.000000             NaN             0
+391                                  Little River                 Westfield        0.000000        0.000000             0
+392                               Westfield River                 Westfield        0.000000        0.000000             0
+395                                    Clam River                Farmington        0.000000             NaN             0
+398                            Moose Meadow Brook                 Westfield        0.000000        0.000000             0
+402                             Unnamed Tributary                 Quinebaug        0.000000             NaN             0
+404                            Moose Meadow Brook                 Westfield        0.000000        0.000000             0
+406                              Housatonic River                Housatonic        0.000000        0.000000             0
+407                             Unnamed Tributary                  Chicopee        0.000000             NaN             0
+409                             Unnamed Tributary                  Chicopee        0.000000             NaN             0
+432                                    Fall River                Farmington        0.000000        0.000000             0
+412                              Twelvemile Brook                  Chicopee        0.000000        0.000000             0
+415                                 Hubbard Brook                Housatonic        0.000000             NaN             0
+416                                Chicopee River                  Chicopee        0.000000        0.000000             0
+422                                  Bottle Brook                  Chicopee        0.000000        0.000000             0
+426                  West Branch Farmington River                Farmington        0.000000        0.000000             0
+427                                Chicopee River                  Chicopee        0.000000        0.000000             0
+429                                   East Branch                  Neponset        0.000000        0.000000             0
+430                                  Pequid Brook                  Neponset        0.000000        0.000000             0
+491                                  Cronin Brook                Blackstone        0.000000        0.000000             0
+184                                    Town Brook             South Coastal        0.000000        0.000000             0
+581                                 Roaring Brook                 Westfield        0.000000        0.000000             0
+497                             Unnamed Tributary           Weymouth & Weir        0.000000             NaN             0
+538                            Moose Meadow Brook                 Westfield        0.000000        0.000000             0
+172                               Threemile River                   Taunton        0.000000        0.000000             0
+171                                  Wading River                   Taunton        0.000000        0.000000             0
+548                  West Branch Farmington River                Farmington        0.000000        0.000000             0
+550                                 Quaboag River                  Chicopee        0.000000        0.000000             0
+552                                   Swift River                  Chicopee        0.000000        0.000000             0
+170                                    Abbott Run                Blackstone        0.000000        0.000000             0
+168                                Fourmile Brook                  Ten Mile        0.000000        0.000000             0
+557                                 Quaboag River                  Chicopee        0.000000        0.000000             0
+558                               Purgatory Brook                  Neponset        0.000000             NaN             0
+560                                   Moose Brook               Connecticut        0.000000        0.000000             0
+566                               Cranberry River                  Chicopee        0.000000        0.000000             0
+567                                 Buttery Brook               Connecticut        0.000000             NaN             0
+568                                 Buttery Brook               Connecticut        0.000000             NaN             0
+571                                  Sewall Brook                   Charles        0.000000             NaN             0
+573                                     Red Brook               Connecticut        0.000000             NaN             0
+574                                  O'Neil Brook                  Chicopee        0.000000        0.000000             0
+575                                 Quaboag River                  Chicopee        0.000000        0.000000             0
+163                                    Abbott Run                Blackstone        0.000000             NaN             0
+174                                 Sawmill Brook                   Taunton        0.000000        0.000000             0
+536                                    Ware River                  Chicopee        0.000000        0.000000             0
+175                                  Wading River                   Taunton        0.000000        0.000000             0
+513                                 Pecunit Brook                  Neponset        0.000000        0.000000             0
+500                          Spectacle Pond Brook                Farmington        0.000000             NaN             0
+501                                Bogastow Brook                   Charles        0.000000        0.000000             0
+502                             Unnamed Tributary                  Chicopee        0.000000        0.000000             0
+504                                    Mill Brook                  Neponset        0.000000        0.000000             0
+506                             Unnamed Tributary               Connecticut        0.000000        0.000000             0
+181                                Ten Mile River                  Ten Mile        0.000000        0.000000             0
+508                                    Ware River                  Chicopee        0.000000        0.000000             0
+509                             Unnamed Tributary               Connecticut        0.000000        0.000000             0
+516                                 Quaboag River                  Chicopee        0.000000        0.000000             0
+529                                     Eel River           Weymouth & Weir        0.000000             NaN             0
+518                                    Mill Brook                  Neponset        0.000000             NaN             0
+519                                 Dimmock Brook                Farmington        0.000000             NaN             0
+520                             Unnamed Tributary                Farmington        0.000000        0.000000             0
+521                                    Mill Brook                   Charles        0.000000        0.000000             0
+180                                  Wading River                   Taunton        0.000000        0.000000             0
+523                             Unnamed Tributary                Farmington        0.000000        0.000000             0
+179                                  Wading River                   Taunton        0.000000        0.000000             0
+526                                    Farm River           Weymouth & Weir        0.000000             NaN             0
+388                                 Charles River                   Charles        0.000000             NaN             0
+387                                 Charles River                   Charles        0.000000             NaN             0
+385                                    Pond Brook                 Westfield        0.000000        0.000000             0
+194                                  Scotts Brook                  Ten Mile        0.000000        0.000000             0
+263                                 Scantic River               Connecticut        0.000000        0.000000             0
+264                                   Sandy Brook                Farmington        0.000000        0.000000             0
+266                                 Scadden Brook                Blackstone        0.000000        0.000000             0
+267                                  Beaver Brook                   Taunton        0.000000        0.000000             0
+270                                  Slocum Brook                Farmington        0.000000        0.000000             0
+271                                 Scantic River               Connecticut        0.000000        0.000000             0
+273                                 Scantic River               Connecticut        0.000000             NaN             0
+274                                  Temple Brook               Connecticut        0.000000             NaN             0
+277                                  Temple Brook               Connecticut        0.000000             NaN             0
+282                                Konkapot River                Housatonic        0.000000        0.000000             0
+286                              Housatonic River                Housatonic        0.000000        0.000000             0
+288                                     Dix Brook                   Charles        0.000000        0.000000             0
+290                                 Hatchet Brook                 Quinebaug        0.000000        0.000000             0
+291                                 Scantic River               Connecticut        0.000000        0.000000             0
+294                                 Hubbard Brook                Farmington        0.000000        0.000000             0
+295                             Centerville Brook                Blackstone        0.000000             NaN             0
+296                                 Hubbard Brook                Farmington        0.000000        0.000000             0
+207                             Unnamed Tributary                Blackstone        0.000000        0.000000             0
+299                  West Branch Farmington River                Farmington        0.000000        0.000000             0
+260                                  Valley Brook                Farmington        0.000000        0.000000             0
+259                             Unnamed Tributary               Connecticut        0.000000        0.000000             0
+258                                    Mill River                Blackstone        0.000000        0.000000             0
+236                                  Peters River                Blackstone        0.000000        0.000000             0
+216                                    Mill River                Blackstone        0.000000        0.000000             0
+213                                 Rumford River                   Taunton        0.000000        0.000000             0
+222                               Hockomock River                   Taunton        0.000000        0.000000             0
+223                              Blackstone River                Blackstone        0.000000        0.000000             0
+227                         Mulberry Meadow Brook                   Taunton        0.000000        0.000000             0
+228                                   Silver Lake             South Coastal        0.000000             NaN             0
+229                                     Fox Brook                Blackstone        0.000000        0.000000             0
+230                                   Rocky Brook                 Quinebaug        0.000000             NaN             0
+240                                  Peters River                Blackstone        0.000000        0.000000             0
+257                                    Pond Brook                Farmington        0.000000             NaN             0
+241                               Quinebaug River                 Quinebaug        0.000000        0.000000             0
+244                                   Bacon Brook                Blackstone        0.000000             NaN             0
+245                             Unnamed Tributary                Blackstone        0.000000             NaN             0
+250                     White Oak Brook/Reservoir                   Taunton        0.000000             NaN             0
+252                              Longmeadow Brook               Connecticut        0.000000        0.000000             0
+253                             Unnamed Tributary               Connecticut        0.000000        0.000000             0
+255                                 Hubbard Brook                Farmington        0.000000        0.000000             0
+256                                 Hubbard Brook                Farmington        0.000000             NaN             0
+300                                 Wellman Brook                Blackstone        0.000000        0.000000             0
+302                             Unnamed Tributary                Blackstone        0.000000             NaN             0
+305                                Konkapot River                Housatonic        0.000000        0.000000             0
+198                                   Canoe River                   Taunton        0.000000        0.000000             0
+354                                    Buck River                Farmington        0.000000        0.000000             0
+357                                 French Stream             South Coastal        0.000000        0.000000             0
+360                                 Schenob Brook                Housatonic        0.000000        0.000000             0
+361                                Konkapot River                Housatonic        0.000000        0.000000             0
+362                               Umpachene River                Housatonic        0.000000        0.000000             0
+363                                 Hubbard Brook                Housatonic        0.000000        0.000000             0
+364                              Powdermill Brook                 Westfield        0.000000        0.000000             0
+199                             Connecticut River               Connecticut        0.000000        0.000000             0
+368                                Chicopee Brook                  Chicopee        0.000000             NaN             0
+352                                Bashbish Brook                  Bashbish        0.000000        0.000000             0
+369                               Westfield River                 Westfield        0.000000        0.000000             0
+375                                  Little River                 Westfield        0.000000        0.000000             0
+196                                  Russell Pond             South Coastal        0.000000        0.000000             0
+378                                Chicopee Brook                  Chicopee        0.000000             NaN             0
+195                                  Scotts Brook                  Ten Mile        0.000000        0.000000             0
+380                                Chicopee Brook                  Chicopee        0.000000             NaN             0
+382                                    Cook Brook                 Westfield        0.000000        0.000000             0
+383                                Chicopee Brook                  Chicopee        0.000000        0.000000             0
+353                               Westfield River                 Westfield        0.000000        0.000000             0
+346                                  Ashley Brook                 Westfield        0.000000        0.000000             0
+307                             Unnamed Tributary                Blackstone        0.000000             NaN             0
+325                               Westfield River                 Westfield        0.000000        0.000000             0
+308                                Ames Long Pond                   Taunton        0.000000        0.000000             0
+310                  West Branch Farmington River                Farmington        0.000000        0.000000             0
+313                             Unnamed Tributary               Connecticut        0.000000        0.000000             0
+315                                  Valley Brook                Farmington        0.000000        0.000000             0
+319                                  Conant Brook                  Chicopee        0.000000        0.000000             0
+320                                Neponset River                  Neponset        0.000000        0.000000             0
+321                                   Great Brook                 Westfield        0.000000        0.000000             0
+324                             Ashley Hill Brook                  Bashbish        0.000000             NaN             0
+328                               Westfield River                 Westfield        0.000000        0.000000             0
+345                                  Silver Brook                Farmington        0.000000        0.000000             0
+329                                 Mumford River                Blackstone        0.000000        0.000000             0
+330                                Chicopee Brook                  Chicopee        0.000000        0.000000             0
+332                                    Mill River               Connecticut        0.000000        0.000000             0
+334                                    Clam River                Farmington        0.000000        0.000000             0
+335                                   Sandy Brook                Farmington        0.000000             NaN             0
+339                                    Clam River                Farmington        0.000000             NaN             0
+342                                    Munn Brook                 Westfield        0.000000        0.000000             0
+344                                Chicopee Brook                  Chicopee        0.000000        0.000000             0
+578                               Westfield River                 Westfield        0.000000        0.000000             0
+586                   West Branch Westfield River                 Westfield        0.000000        0.000000             0
+957                  East Branch Housatonic River                Housatonic        0.000000             NaN             0
+861                                  Wards Stream                 Westfield        0.000000        0.000000             0
+815                                    Fort River               Connecticut        0.000000        0.000000             0
+816                                   Pratt Brook                  Chicopee        0.000000        0.000000             0
+819                                Amethyst Brook               Connecticut        0.000000        0.000000             0
+820                                  Malden Brook                    Nashua        0.000000             NaN             0
+822                                 Webster Brook                 Westfield        0.000000        0.000000             0
+823                                   Ashley Lake                Housatonic        0.000000        0.000000             0
+825                             Unnamed Tributary               Connecticut        0.000000        0.000000             0
+826                                   Yokun Brook                Housatonic        0.000000             NaN             0
+828                              Quinapoxet River                    Nashua        0.000000        0.000000             0
+832                                  Purgee Brook                  Chicopee        0.000000        0.000000             0
+833                                  Cherry Brook                   Charles        0.000000        0.000000             0
+835                               Westfield River                 Westfield        0.000000             NaN             0
+838                        West Branch Mill River               Connecticut        0.000000             NaN             0
+848                                   West Branch                 Westfield        0.000000        0.000000             0
+849                 Middle Branch Westfield River                 Westfield        0.000000        0.000000             0
+852                                   West Branch                 Westfield        0.000000        0.000000             0
+854                                   West Branch                 Westfield        0.000000             NaN             0
+856                             Unnamed Tributary                  Chicopee        0.000000        0.000000             0
+859                                   Tower Brook                 Westfield        0.000000        0.000000             0
+812                                  Burrow Brook                  Chicopee        0.000000        0.000000             0
+810                                   Moose Brook                  Chicopee        0.000000        0.000000             0
+809                                  Wards Stream                 Westfield        0.000000        0.000000             0
+790                                   Kinne Brook                 Westfield        0.000000        0.000000             0
+776                                  Little River                 Westfield        0.000000             NaN             0
+778                 Middle Branch Westfield River                 Westfield        0.000000        0.000000             0
+780                          Roberts Meadow Brook               Connecticut        0.000000             NaN             0
+783                          Roberts Meadow Brook               Connecticut        0.000000             NaN             0
+784                                Glendale Brook                 Westfield        0.000000        0.000000             0
+785                             Unnamed Tributary               Connecticut        0.000000        0.000000             0
+787                                     Hop Brook               Connecticut        0.000000             NaN             0
+789                                 Charles River                   Charles        0.000000             NaN             0
+791                                    Ware River                  Chicopee        0.000000        0.000000             0
+808                                  Watts Stream                 Westfield        0.000000        0.000000             0
+795                                    Cone Brook                Housatonic        0.000000        0.000000             0
+798                                   Gates Brook                    Nashua        0.000000             NaN             0
+799                                Prescott Brook                  Chicopee        0.000000        0.000000             0
+801                                    Ware River                  Chicopee        0.000000        0.000000             0
+803                                 Charles River                   Charles        0.000000             NaN             0
+804                              Quinapoxet River                    Nashua        0.000000             NaN             0
+806                                 Charles River                   Charles        0.000000             NaN             0
+807                                  Watts Stream                 Westfield        0.000000        0.000000             0
+860                              Stillwater River                    Nashua        0.000000             NaN             0
+862                            Russellville Brook               Connecticut        0.000000        0.000000             0
+587                              Housatonic River                Housatonic        0.000000        0.000000             0
+864                            Russellville Brook               Connecticut        0.000000        0.000000             0
+918                              Long Plain Brook               Connecticut        0.000000             NaN             0
+921                                 Roaring Brook               Connecticut        0.000000        0.000000             0
+90                                Kickamuit River    Mount Hope Bay (Shore)        0.000000        0.000000             0
+923                                   Smith Brook                Housatonic        0.000000        0.000000             0
+924                             Unnamed Tributary                  Chicopee        0.000000        0.000000             0
+925                               Westfield River                 Westfield        0.000000        0.000000             0
+928                                  Stones Brook                 Westfield        0.000000        0.000000             0
+931                                    Mill River               Connecticut        0.000000        0.000000             0
+932                  East Branch Housatonic River                Housatonic        0.000000             NaN             0
+88                                Kickamuit River    Mount Hope Bay (Shore)        0.000000        0.000000             0
+937                             Unnamed Tributary          Concord (SuAsCo)        0.000000        0.000000             0
+938                                 Roaring Brook               Connecticut        0.000000        0.000000             0
+940                                  Meadow Brook                 Westfield        0.000000        0.000000             0
+947                             Connecticut River               Connecticut        0.000000        0.000000             0
+948                                 Rutland Brook                  Chicopee        0.000000        0.000000             0
+949                  East Branch Housatonic River                Housatonic        0.000000             NaN             0
+84                              Unnamed Tributary                  Cape Cod        0.000000             NaN             0
+951                                    Mill River               Connecticut        0.000000        0.000000             0
+956                                     Hop Brook                  Chicopee        0.000000        0.000000             0
+91                               Springhill Creek                  Cape Cod        0.000000             NaN             0
+915                              Stillwater River                    Nashua        0.000000        0.000000             0
+914                                  Nashua River                    Nashua        0.000000        0.000000             0
+99                                    Lewin Brook    Mount Hope Bay (Shore)        0.000000        0.000000             0
+869                                 Cushman Brook               Connecticut        0.000000        0.000000             0
+870                                   West Branch                 Westfield        0.000000        0.000000             0
+871                        East Branch Ware River                  Chicopee        0.000000        0.000000             0
+873                             Unnamed Tributary                    Mystic        0.000000             NaN             0
+877                        West Branch Mill River               Connecticut        0.000000        0.000000             0
+879                                 Sackett Brook                Housatonic        0.000000        0.000000             0
+887                              Long Plain Brook               Connecticut        0.000000        0.000000             0
+888                              Long Plain Brook               Connecticut        0.000000             NaN             0
+95                              Unnamed Tributary                  Cape Cod        0.000000             NaN             0
+912                                    Mill River               Connecticut        0.000000        0.000000             0
+895                             Unnamed Tributary               Connecticut        0.000000             NaN             0
+898                                 Roaring Brook               Connecticut        0.000000             NaN             0
+899                                 Canesto Brook                  Chicopee        0.000000        0.000000             0
+904                               Westfield River                 Westfield        0.000000        0.000000             0
+905                                   Trout Brook                 Westfield        0.000000             NaN             0
+906                  West Branch Housatonic River                Housatonic        0.000000        0.000000             0
+907                             Unnamed Tributary                  Chicopee        0.000000        0.000000             0
+908                             Unnamed Tributary                  Chicopee        0.000000        0.000000             0
+775                                  Brewer Brook               Connecticut        0.000000             NaN             0
+768                                 Sudbury River          Concord (SuAsCo)        0.000000        0.000000             0
+766                                 Chaffee Brook                  Chicopee        0.000000             NaN             0
+765                             Connecticut River               Connecticut        0.000000        0.000000             0
+627                                   Stony Brook               Connecticut        0.000000        0.000000             0
+151                                    Mill River                   Taunton        0.000000        0.000000             0
+632                                     Hop Brook                Housatonic        0.000000        0.000000             0
+634                                  Noanet Brook                   Charles        0.000000             NaN             0
+637                               Sanderson Brook                 Westfield        0.000000        0.000000             0
+641                                   White Brook               Connecticut        0.000000             NaN             0
+646                                  Shales Brook                Farmington        0.000000        0.000000             0
+648                 Middle Branch Westfield River                 Westfield        0.000000        0.000000             0
+649                                  Tucker Brook               Connecticut        0.000000        0.000000             0
+650                                 Tatnuck Brook                Blackstone        0.000000        0.000000             0
+653                             Turkey Hill Brook                  Chicopee        0.000000        0.000000             0
+654                             Unnamed Tributary               Connecticut        0.000000        0.000000             0
+146                                    Mill River                   Taunton        0.000000        0.000000             0
+659                     North Branch Manhan River               Connecticut        0.000000        0.000000             0
+1                                  Tiasquam River                   Islands        0.000000             NaN             0
+663                               Pine Tree Brook                  Neponset        0.000000        0.000000             0
+664                                Bachelor Brook               Connecticut        0.000000        0.000000             0
+665                                Bachelor Brook               Connecticut        0.000000        0.000000             0
+666                                     Hop Brook                Housatonic        0.000000        0.000000             0
+625                                 Roaring Brook                  Chicopee        0.000000        0.000000             0
+624                                   Broad Brook               Connecticut        0.000000        0.000000             0
+622                                Neponset River                  Neponset        0.000000        0.000000             0
+604                                  Middle River                Blackstone        0.000000        0.000000             0
+591                             Unnamed Tributary                   Charles        0.000000        0.000000             0
+156                               Sevenmile River                  Ten Mile        0.000000        0.000000             0
+595                                    Weir River           Weymouth & Weir        0.000000        0.000000             0
+154                                     Eel River             South Coastal        0.000000        0.000000             0
+598                                    Ware River                  Chicopee        0.000000        0.000000             0
+599                             Unnamed Tributary                  Chicopee        0.000000        0.000000             0
+600                                  Middle River                Blackstone        0.000000        0.000000             0
+602                   West Branch Westfield River                 Westfield        0.000000        0.000000             0
+605                                 Roaring Brook                 Westfield        0.000000             NaN             0
+620                           Forget-Me-Not Brook                  Chicopee        0.000000        0.000000             0
+606                                  Manhan River               Connecticut        0.000000        0.000000             0
+607                                  Manhan River               Connecticut        0.000000             NaN             0
+608                                    Weir River           Weymouth & Weir        0.000000        0.000000             0
+609                                  Manhan River               Connecticut        0.000000        0.000000             0
+610                                    Weir River           Weymouth & Weir        0.000000        0.000000             0
+614                                  Thomas Brook                Farmington        0.000000        0.000000             0
+615                                  Sargent Pond                    French        0.000000        0.000000             0
+619                                    West Brook                Housatonic        0.000000        0.000000             0
+667                             Turkey Hill Brook                  Chicopee        0.000000        0.000000             0
+668                               Westfield River                 Westfield        0.000000        0.000000             0
+670                                Beartown Brook                Housatonic        0.000000        0.000000             0
+744                                     Hop Brook               Connecticut        0.000000             NaN             0
+725                                    Ware River                  Chicopee        0.000000        0.000000             0
+731                               Westfield River                 Westfield        0.000000        0.000000             0
+732                                    Fish Brook                  Chicopee        0.000000        0.000000             0
+735                                    Mill River               Connecticut        0.000000        0.000000             0
+130                                  Palmer River  Narragansett Bay (Shore)        0.000000        0.000000             0
+739                                 Factory Brook                 Westfield        0.000000        0.000000             0
+742                                 Parsons Brook               Connecticut        0.000000             NaN             0
+743                 Middle Branch Westfield River                 Westfield        0.000000        0.000000             0
+745                             Unnamed Tributary          Concord (SuAsCo)        0.000000             NaN             0
+719                                   Kinne Brook                 Westfield        0.000000        0.000000             0
+746                                  Sewall Brook                Blackstone        0.000000        0.000000             0
+748                                   Kinne Brook                 Westfield        0.000000             NaN             0
+753                             Unnamed Tributary               Connecticut        0.000000             NaN             0
+754                     Washington Mountain Brook                Housatonic        0.000000        0.000000             0
+756                             Unnamed Tributary               Connecticut        0.000000             NaN             0
+758                             Shaker Mill Brook                 Westfield        0.000000        0.000000             0
+760                             Shaker Mill Brook                 Westfield        0.000000             NaN             0
+761                                   Yokum Brook                 Westfield        0.000000        0.000000             0
+724                                 Parsons Brook               Connecticut        0.000000             NaN             0
+718                   West Branch Westfield River                 Westfield        0.000000             NaN             0
+672                                Beartown Brook                Housatonic        0.000000        0.000000             0
+684                             Unnamed Tributary               Connecticut        0.000000             NaN             0
+674                              Housatonic River                Housatonic        0.000000        0.000000             0
+675                               Westfield River                 Westfield        0.000000             NaN             0
+676                             Unnamed Tributary               Connecticut        0.000000        0.000000             0
+677                                  Walker Brook                 Westfield        0.000000        0.000000             0
+678                                Bachelor Brook               Connecticut        0.000000        0.000000             0
+680                                   Elmer Brook               Connecticut        0.000000        0.000000             0
+682                                 Lampson Brook               Connecticut        0.000000        0.000000             0
+683                     North Branch Manhan River               Connecticut        0.000000        0.000000             0
+686                                   Elmer Brook               Connecticut        0.000000        0.000000             0
+712                                   Stony Brook          Concord (SuAsCo)        0.000000        0.000000             0
+687                                  Jabish Brook                  Chicopee        0.000000        0.000000             0
+688                                  Manhan River               Connecticut        0.000000        0.000000             0
+692                             Lake Quinsigamond                Blackstone        0.000000             NaN             0
+696                                  Manhan River               Connecticut        0.000000             NaN             0
+701                             Unnamed Tributary                  Chicopee        0.000000        0.000000             0
+142                                   Fresh Brook                  Cape Cod        0.000000             NaN             0
+706                               Larrywaug Brook                Housatonic        0.000000        0.000000             0
+707                 Middle Branch Westfield River                 Westfield        0.000000             NaN             0
+0                                      Mill Brook                   Islands        0.000000             NaN             0
