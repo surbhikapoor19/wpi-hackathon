@@ -648,13 +648,14 @@ def main():
         return
     
     # Create tabs for different analyses
-    tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs([
+    tab1, tab2, tab3, tab4, tab5, tab6, tab7 = st.tabs([
         "📊 Overview", 
         "🌡️ Parameters", 
         "🌦️ Seasonal", 
         "💧 Stress Analysis",
         "📍 Hotspots",
-        "📈 Dashboard"
+        "📈 Dashboard",
+        "🎯 WSLUS Model Insights"
     ])
     
     # Calculate metrics
@@ -797,48 +798,318 @@ def main():
         dashboard_fig = create_comprehensive_dashboard(hotspots, df)
         st.plotly_chart(dashboard_fig, use_container_width=True)
         
-        # Export options
-        st.markdown("---")
-        st.subheader("📥 Export Results")
+    with tab7:
+        create_wslus_insights_tab()
+
+def load_wslus_model_results():
+    """Load WSLUS model results if available"""
+    try:
+        import geopandas as gpd
+        import joblib
         
-        col1, col2 = st.columns(2)
+        # Try to load the model results
+        stations_df = None
+        model = None
+        feature_importance = None
         
+        # Load stations with WSLUS scores
+        try:
+            stations_df = pd.read_csv('stations_with_wslus_scores.csv')
+            st.success("✅ Loaded WSLUS model results")
+        except:
+            pass
+        
+        # Load model if available
+        try:
+            model = joblib.load('wslus_predictive_model.pkl')
+        except:
+            pass
+        
+        return stations_df, model, feature_importance
+    except Exception as e:
+        return None, None, None
+
+def create_wslus_insights_tab():
+    """Create the WSLUS Model Insights tab with problem-solving approach"""
+    st.header("🎯 Watershed Preservation Opportunity Analysis")
+    st.markdown("**Using Water Stress from Land Use Score (WSLUS) Model**")
+    
+    # Try to load model results
+    stations_df, model, feature_importance = load_wslus_model_results()
+    
+    if stations_df is None or len(stations_df) == 0:
+        st.warning("""
+        **WSLUS Model Results Not Found**
+        
+        To use this tab, please run the `watershed_preservation_model.ipynb` notebook first to generate:
+        - `stations_with_wslus_scores.csv` - Station analysis with WSLUS scores
+        - `wslus_predictive_model.pkl` - Trained model (optional)
+        - `preservation_opportunities.csv` - Ranked preservation targets (optional)
+        """)
+        
+        # Show sample/demo mode
+        st.info("💡 **Demo Mode**: Showing example insights structure")
+        
+        col1, col2, col3 = st.columns(3)
         with col1:
-            # Convert hotspots dataframe to CSV
-            csv = hotspots.to_csv(index=False)
-            st.download_button(
-                label="Download Hotspot Analysis (CSV)",
-                data=csv,
-                file_name=f"water_quality_hotspots_{datetime.now().strftime('%Y%m%d')}.csv",
-                mime="text/csv"
-            )
-        
+            st.metric("Critical Stations", "15", delta="12% of total")
         with col2:
-            # Create summary report
-            report = f"""
-WATERSHED CONSERVATION PRIORITY REPORT
-======================================
-Analysis Date: {datetime.now()}
-Total Stations Analyzed: {len(hotspots)}
-
-Priority Distribution:
-{hotspots['priority'].value_counts().to_string()}
-
-Top 10 Conservation Priorities:
-{hotspots.nlargest(10, 'hotspot_score')[['Station_ID', 'hotspot_score', 'priority', 'Watershed']].to_string()}
-
-Summary Statistics:
-- Average Hotspot Score: {hotspots['hotspot_score'].mean():.2f}
-- Average Stress Score: {hotspots['stress_score'].mean():.2f}
-- Average Instability Score: {hotspots['instability_score'].mean():.2f}
-- Average Persistence Score: {hotspots['persistence_score'].mean():.2f}
-"""
-            st.download_button(
-                label="Download Summary Report (TXT)",
-                data=report,
-                file_name=f"conservation_report_{datetime.now().strftime('%Y%m%d')}.txt",
-                mime="text/plain"
+            st.metric("High Priority Areas", "8", delta="Watersheds")
+        with col3:
+            st.metric("Preservation Opportunities", "42", delta="Parcels identified")
+        
+        st.markdown("---")
+        st.subheader("🔍 Problem-Solving Framework")
+        
+        st.markdown("""
+        ### Step 1: Identify Critical Areas
+        - Stations with WSLUS > 75 (Critical risk)
+        - EJ communities with high water stress
+        - Areas with declining water quality trends
+        
+        ### Step 2: Understand Root Causes
+        - High impervious surface coverage
+        - Industrial land use nearby
+        - Low forest/wetland protection
+        - Stormwater runoff issues
+        
+        ### Step 3: Prioritize Interventions
+        - Land preservation opportunities
+        - Green infrastructure retrofits
+        - Stormwater management improvements
+        - Community engagement in EJ areas
+        """)
+        return
+    
+    # Convert to numeric for WSLUS if needed
+    if 'WSLUS' in stations_df.columns:
+        stations_df['WSLUS'] = pd.to_numeric(stations_df['WSLUS'], errors='coerce')
+    
+    # Problem-Solving Interface
+    st.markdown("---")
+    
+    # Step 1: Problem Identification
+    st.subheader("🔍 Step 1: Identify Critical Problems")
+    
+    col1, col2, col3, col4 = st.columns(4)
+    
+    with col1:
+        critical = len(stations_df[stations_df['WSLUS'] > 75]) if 'WSLUS' in stations_df.columns else 0
+        st.metric("Critical Risk Stations", critical, 
+                 delta=f"{critical/len(stations_df)*100:.1f}%" if len(stations_df) > 0 else "0%",
+                 delta_color="inverse")
+    
+    with col2:
+        high_risk = len(stations_df[(stations_df['WSLUS'] > 50) & (stations_df['WSLUS'] <= 75)]) if 'WSLUS' in stations_df.columns else 0
+        st.metric("High Risk Stations", high_risk,
+                 delta=f"{high_risk/len(stations_df)*100:.1f}%" if len(stations_df) > 0 else "0%",
+                 delta_color="off")
+    
+    with col3:
+        ej_critical = len(stations_df[(stations_df.get('in_ej_community', 0) == 1) & 
+                                     (stations_df.get('WSLUS', 0) > 75)]) if 'WSLUS' in stations_df.columns else 0
+        st.metric("EJ Critical Areas", ej_critical,
+                 delta="Requires attention",
+                 delta_color="inverse")
+    
+    with col4:
+        avg_wslus = stations_df['WSLUS'].mean() if 'WSLUS' in stations_df.columns else 0
+        st.metric("Average WSLUS", f"{avg_wslus:.1f}",
+                 delta="Target: <50",
+                 delta_color="inverse" if avg_wslus > 50 else "normal")
+    
+    # Critical stations table
+    if 'WSLUS' in stations_df.columns:
+        critical_stations = stations_df[stations_df['WSLUS'] > 75].sort_values('WSLUS', ascending=False)
+        
+        if len(critical_stations) > 0:
+            st.markdown("#### 🚨 Critical Priority Stations (WSLUS > 75)")
+            
+            display_cols = ['station_id', 'WSLUS', 'risk_category']
+            if 'in_ej_community' in critical_stations.columns:
+                display_cols.append('in_ej_community')
+            if 'Latitude' in critical_stations.columns:
+                display_cols.extend(['Latitude', 'Longitude'])
+            
+            available_cols = [c for c in display_cols if c in critical_stations.columns]
+            st.dataframe(
+                critical_stations[available_cols].head(20),
+                use_container_width=True,
+                hide_index=True
             )
+    
+    st.markdown("---")
+    
+    # Step 2: Root Cause Analysis
+    st.subheader("🔬 Step 2: Understand Root Causes")
+    
+    if 'WSLUS' in stations_df.columns:
+        # Feature importance if available
+        if 'conductivity_stress' in stations_df.columns:
+            col1, col2 = st.columns(2)
+            
+            with col1:
+                st.markdown("##### Primary Stress Drivers")
+                stress_cols = ['conductivity_stress', 'tds_stress', 'ph_stress', 
+                              'temperature_stress', 'impervious_stress', 'landuse_stress']
+                available_stress = [c for c in stress_cols if c in stations_df.columns]
+                
+                if available_stress:
+                    stress_means = stations_df[available_stress].mean().sort_values(ascending=False)
+                    stress_fig = go.Figure(data=[
+                        go.Bar(x=stress_means.index, y=stress_means.values,
+                              marker_color='coral')
+                    ])
+                    stress_fig.update_layout(
+                        title="Average Stress by Component",
+                        xaxis_title="Stress Component",
+                        yaxis_title="Average Stress Score",
+                        height=300
+                    )
+                    st.plotly_chart(stress_fig, use_container_width=True)
+            
+            with col2:
+                st.markdown("##### Land Use Impact")
+                # Show land use percentages if available
+                landuse_cols = [c for c in stations_df.columns if any(x in c for x in ['forest', 'urban', 'industrial', 'wetland']) and '_pct' in c]
+                
+                if landuse_cols:
+                    # Get most common buffer distance
+                    buffer_dists = [500, 1000, 2000, 5000]
+                    best_buffer = None
+                    for dist in buffer_dists:
+                        dist_cols = [c for c in landuse_cols if f'{dist}m' in c]
+                        if dist_cols:
+                            best_buffer = dist
+                            break
+                    
+                    if best_buffer:
+                        dist_cols = [c for c in landuse_cols if f'{best_buffer}m' in c]
+                        landuse_means = stations_df[dist_cols].mean().sort_values(ascending=False)
+                        
+                        landuse_fig = go.Figure(data=[
+                            go.Bar(x=landuse_means.index.str.replace(f'_{best_buffer}m_pct', ''),
+                                  y=landuse_means.values,
+                                  marker_color='lightgreen')
+                        ])
+                        landuse_fig.update_layout(
+                            title=f"Average Land Use Coverage ({best_buffer}m buffer)",
+                            xaxis_title="Land Use Type",
+                            yaxis_title="Percentage Coverage",
+                            height=300
+                        )
+                        st.plotly_chart(landuse_fig, use_container_width=True)
+    
+    st.markdown("---")
+    
+    # Step 3: Solutions & Opportunities
+    st.subheader("💡 Step 3: Prioritized Solutions")
+    
+    # Try to load preservation opportunities
+    try:
+        opp_df = pd.read_csv('preservation_opportunities.csv')
+        
+        if len(opp_df) > 0:
+            st.success(f"✅ Found {len(opp_df)} preservation opportunities")
+            
+            col1, col2 = st.columns(2)
+            
+            with col1:
+                st.markdown("##### Top 10 Preservation Opportunities")
+                top_opps = opp_df.head(10)[['rank', 'landuse_type', 'area_hectares', 
+                                           'preservation_score', 'estimated_impact']]
+                st.dataframe(top_opps, use_container_width=True, hide_index=True)
+            
+            with col2:
+                st.markdown("##### Impact Summary")
+                total_area = opp_df['area_hectares'].sum()
+                total_impact = opp_df['estimated_impact'].sum()
+                
+                st.metric("Total Preservation Area", f"{total_area:.1f} hectares")
+                st.metric("Total Impact Score", f"{total_impact:.0f}")
+                st.metric("Priority Parcels", len(opp_df))
+                
+                # Land use breakdown
+                if 'landuse_type' in opp_df.columns:
+                    landuse_counts = opp_df['landuse_type'].value_counts()
+                    st.markdown("**By Land Use Type:**")
+                    for landuse, count in landuse_counts.items():
+                        st.write(f"- {landuse}: {count} parcels")
+        else:
+            st.info("No preservation opportunities found. Run the full analysis in the notebook.")
+    except:
+        st.info("💡 **Preservation opportunities analysis**: Run the notebook to generate ranked preservation targets")
+    
+    # Action recommendations
+    st.markdown("---")
+    st.subheader("📋 Recommended Actions")
+    
+    if 'WSLUS' in stations_df.columns:
+        # Generate recommendations based on data
+        recommendations = []
+        
+        # Check for high impervious stress
+        if 'impervious_stress' in stations_df.columns:
+            high_imperv = stations_df['impervious_stress'].mean()
+            if high_imperv > 0.5:
+                recommendations.append({
+                    'priority': 'High',
+                    'action': 'Green Infrastructure Retrofits',
+                    'description': f'High impervious coverage (avg stress: {high_imperv:.2f}). Install rain gardens, permeable pavements, and green roofs.',
+                    'stations_affected': len(stations_df[stations_df['impervious_stress'] > 0.5])
+                })
+        
+        # Check for EJ communities
+        if 'in_ej_community' in stations_df.columns:
+            ej_stations = stations_df[stations_df['in_ej_community'] == 1]
+            if len(ej_stations) > 0:
+                ej_avg_wslus = ej_stations['WSLUS'].mean() if 'WSLUS' in ej_stations.columns else 0
+                recommendations.append({
+                    'priority': 'Critical',
+                    'action': 'EJ Community Water Quality Protection',
+                    'description': f'{len(ej_stations)} EJ communities identified with average WSLUS of {ej_avg_wslus:.1f}. Prioritize these areas for intervention.',
+                    'stations_affected': len(ej_stations)
+                })
+        
+        # Check for high conductivity (road salt)
+        if 'conductivity_stress' in stations_df.columns:
+            high_cond = stations_df['conductivity_stress'].mean()
+            if high_cond > 0.6:
+                recommendations.append({
+                    'priority': 'High',
+                    'action': 'Road Salt Reduction Program',
+                    'description': f'High conductivity stress ({high_cond:.2f}) indicates road salt runoff. Implement salt reduction strategies.',
+                    'stations_affected': len(stations_df[stations_df['conductivity_stress'] > 0.6])
+                })
+        
+        # Display recommendations
+        for i, rec in enumerate(recommendations, 1):
+            priority_color = {'Critical': '🔴', 'High': '🟠', 'Medium': '🟡', 'Low': '🟢'}.get(rec['priority'], '⚪')
+            
+            with st.expander(f"{priority_color} {rec['priority']} Priority: {rec['action']}"):
+                st.write(rec['description'])
+                st.metric("Stations Affected", rec['stations_affected'])
+    
+    # Model performance if available
+    st.markdown("---")
+    st.subheader("📊 Model Performance")
+    
+    try:
+        with open('executive_summary.json', 'r') as f:
+            import json
+            summary = json.load(f)
+            
+            if 'overview' in summary:
+                col1, col2, col3 = st.columns(3)
+                with col1:
+                    st.metric("Model R² Score", 
+                             f"{summary['overview'].get('model_accuracy', 0):.3f}" if summary['overview'].get('model_accuracy') else "N/A")
+                with col2:
+                    st.metric("Total Stations", summary['overview'].get('total_stations', 0))
+                with col3:
+                    st.metric("Mean WSLUS", f"{summary['overview'].get('mean_wslus', 0):.1f}")
+    except:
+        st.info("Model performance metrics not available. Run the full analysis to generate metrics.")
 
 # Run the application
 if __name__ == "__main__":
